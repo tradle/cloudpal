@@ -1,6 +1,6 @@
 ## Premise
 
-1. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. This is the next major cycle of Personal Computing, coming after PCs and Mobiles.
+1. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
 
 1. Despite the dominance of Megascaler / Hyperscalers, the inovation did not stop. Cloud industry is surging with the new entrants in Edge Cloud like Fly.io and with the signifant evolution among the existing ones, like Cloudflare and Fastly.com.
 
