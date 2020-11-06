@@ -1,4 +1,4 @@
-# Personal Cloud Premise
+# Premise
 Linux evolved in the last 5-10 years to let us create a beaitful and powerful Cloud, which in the past required significant investments, as those that were made by the Megascalers (AWS, Azure and GCP).
 
 Despite the dominance of megascaler / Hyperscalers, Cloud industry is surging with new entrants like Fly.io and wuth the signifant evolution among the existing ones, like Cloudflare, Fastly.com.
