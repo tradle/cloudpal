@@ -26,18 +26,23 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 | Limited number of devices | Unlimited devices |
 | Not possible | Virtual network for all your devices. Think Airdrop between any of your devices, no matter where they are |
 
-### Common features of a VPN
+### Common VPN features
+- **Secure your line on public WiFi** (cafe, airport, etc). Public WiFi is the feeding ground kiddie hackers in training, you become an easy target without the VPN. Stay safe!
+- **No more snooping by your internet provider (ISP)**. This includes your mobile operator too! They see all your browsing and may record your browsing history. Yikes!
 
-- **Secure your line** on public WiFi (cafe, airport, etc.). Those are the feeding grounds even for kids learning to be hackers.
-- **No snooping by your internet provider (ISP)**. They see and may record all your browsing history. Yikes!
+### Unique Privacy features
+- **You run VPN in the privacy of your own Cloud PC**, and the only thing better than that is to run a dedicated machine on a reliable broadband network, but how many of us can be bothered doing that?
+- **Cloud PC is yours, with amazing privacy apps upcoming, get a discount for them now**. 
+- **Pay with the cryptocurrency** if you like to avoid giving us your name and the payment card when signing up.
 
 ### Premium features
-
+- **Close-to-metal-speeds** This beats most traditional VPNs. We do not charge for this. Enjoy!
+- **Super-lean for your data plan** The overhead of encryption is very low and beats most traditional VPNs. No extra charge. Yay!
+- **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
 - **Block ads in all apps and all browsers on all devices**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Personal Cloud offers alternative apps that never take your data.
-- **Pay with cryptocurrnecy** to avoid giving us your name and card when signing up.
-- **Firewall** your devices may already have some protection from hackers. But you may want more control and this will give you that extra peace of mind, protecting all your connected devices at once.
-- IPv6 vs IPv4
+- **Firewall** your devices may already have some additional protection from hackers. This is a must in addition to securing the line to Internet. But you may want more control and this option will give you that extra peace of mind, protecting all your connected devices at once.
+- **IPv6 vs IPv4**. Internet is running out of addresses and older IPv4 addresses often get an extra surcharge now. IPv6 addresses are more abundant than the stars in the Universe, they are usually free, but not all apps support them. So we help bridging them.
 
 ### Not supported
 This solution is built for privacy. If you're doing it to mask potentially illegal activity, don't - you will get in trouble. This may include:
@@ -47,8 +52,8 @@ This solution is built for privacy. If you're doing it to mask potentially illeg
 
 It is also important to understand the limitations on our ability to protect your privacy:
 
-- **Defence from us**. We do not have an ability to access your data, secret keys or network activity. But as we accept payments from you, we may know who you are, if you use the credit card payment mechanism. If you do not want that, pay us please with cryptocurrency if your jurisdiction allows it.
-- **Defence from the landlord**. There are two companies you need to watch out for. Your VPN provider, that is us, and the Data Center. We can't know what you are doing, as you operate your own Virtual PC, and only you have access to it. As to the Data Center, you are fairly well isolated by running in your own VM. But this is not an absolute protection. What remains is:
+- **Your defence from us**. We do not have an ability to access your data, secret keys or network activity. But as we accept payments from you, we may know who you are, if you use the credit card payment mechanism. If you do not want that, pay us please with cryptocurrency if your jurisdiction allows it.
+- **Your defence from the landlord**. There are two companies you need to watch out for. Your VPN provider, that is us, and the Data Center. We can't know what you are doing, as you operate your own Virtual PC, and only you have access to it. As to the Data Center, you are fairly well isolated by running in your own VM. But this is not an absolute protection. What remains is:
     - The Data Center can take your VM's operating memory snapshotand try to deduce some information from it. Note that all cloud providers have this capability. Yet, the solution for this is coming - encrypted memory for virtual machines will be possible in about a year. Note that this relates only to data in RAM, while the data kept in storage are always encrypted.
     - you will have an ability to choose the Data Center in which your Virtual PC will run.
     - your home router or your mobile on a cell phone network will reveal their network IP address to the Data Center's network. This is standard with the IP protocol used by the Internet. This does not reveal any transmitted data, just the source IP address (e.g. router) and the destination IP which is the address of your virtual machine. You can't hide the destination, but if you want to hide your source IP address, your need to look for Tor or other similar solutions. 
