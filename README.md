@@ -1,11 +1,12 @@
 ## Premise
+_The world seems to swing back and forth between personal and shared economy. We are entering into another cycle of Perso
+nal, Personal Cloud._ 
 
-1. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
+1. **What makes it possible**. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
 
-1. Despite the dominance of Megascaler / Hyperscalers, the inovation did not stop. Cloud industry is surging with the new entrants in Edge Cloud like Fly.io and with the signifant evolution among the existing ones, like Cloudflare and Fastly.com.
+1. **Spinging from the shadow of Big Tech**. Despite the dominance of Megascaler / Hyperscalers, the inovation did not stop. Cloud industry is surging with the new entrants in Edge Cloud like Fly.io and with the signifant evolution among the existing ones, like Cloudflare and Fastly.com.
 
-1. There is one area though that neither Hyperscalers nor others are working on today, a **Personal Cloud**. 
-This market segment does not exist yet, with the closest to it being the VPS market. Although VPS business exists since the 1990s, its target audience has always been the techical crowd. Personal Cloud is the VPS for the mass market.
+1. **Different from VPS** There is one area though that neither Hyperscalers nor others are working on today, a Personal Cloud. This market segment does not exist yet, with the closest to it being the VPS market. Although VPS business exists since the 1990s, its target audience has always been the techical crowd. Personal Cloud is the VPS for the mass market.
 
 ## Goals of the Personal Cloud
 1. People became not just users but the product to get monetized by Facebook, Google and other SaaS app providers. Our goal is to restore the Internet to the conditions when app companies did not own our data and did not know how we chose to use their apps.
@@ -13,12 +14,12 @@ This market segment does not exist yet, with the closest to it being the VPS mar
 
 Personal Cloud comes with 3 major components: network, compute and data virtualization
 
-## Network, your personal VPN 
+## 1. Network (your personal VPN)
 
-### Advantages over traditional VPN
-Traditional VPN offers protection of connecting you to the Internet securely. We do that and more.
+### Advantages of Personal over traditional VPN
+Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps that VPNs does not offer today.
 
-| Traditional shared VPN | Personal VPN |
+| Traditional (shared) VPN | Personal VPN |
 | --- | --- |
 | Provider has a way to record data decrypted by the VPN | Impossibility of that |
 | No logging of your browsing history promise  | Logging impossibility |
