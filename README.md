@@ -23,14 +23,13 @@ This segment of the market does not exist today, closest to it being the VPS. VP
 | Provider has a way to record data decrypted by the VPN | Impossibility of that |
 | No logging of your browsing history promise  | Logging impossibility |
 | Limited number of devices | Unlimited devices |
+| Not possible | Virtual network for all your devices**. You can now do a secure Airdrop between a phone on cell network and your Mac on WiFi |
 
-### Major features
 
-We use Wireguard, the latest network encryption and virtualization technology, which allows us to offer you:
+### Common features of a VPN
 
 - **Secure your line** on public WiFi (cafe, airport, etc.). Those are the feeding grounds even for kids learning to be hackers.
 - **No snooping by your internet provider (ISP)**. They see and may record all your browsing history. Yikes!
-- **Virtual network for all your devices**. You can now do a secure Airdrop between a phone on cell network and your Mac on WiFi.
 
 ### Premium features
 
