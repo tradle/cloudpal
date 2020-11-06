@@ -34,6 +34,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **You run VPN in the privacy of your own Cloud PC**, and the only thing better than that is to run a dedicated machine on a reliable broadband network, but how many of us can be bothered doing that?
 - **Cloud PC is yours, with amazing privacy apps upcoming, get a discount for them now**. 
 - **Pay with the cryptocurrency** if you like to avoid giving us your name and the payment card when signing up.
+- **Magical private network for all your devices**. Yes, it sounds like Apple-speak, but seriosly, it feels magical to have all your devices across the globe, including your Cloud PC, on one virtual network chatting securely. Seriosly, this was what Enterprises are still paying big bucks for. And without Google or anyone else in the middle! Is that even possible? Now those among you that are techies, think of the Peer to Peer apps which you can make from this! [Give us a shout on the support forum](https://discord.gg/343jUAKP) - we have a dozen ideas for you and will even help you build them!
 
 ### Premium features
 - **Close-to-metal-speeds** This beats most traditional VPNs. We do not charge for this. Enjoy!
