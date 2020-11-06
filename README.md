@@ -58,6 +58,6 @@ It is also important to understand the limitations on our ability to protect you
     - The Data Center can take your VM's operating memory snapshotand try to deduce some information from it. Note that all cloud providers have this capability. Yet, the solution for this is coming - encrypted memory for virtual machines will be possible in about a year. Note that this relates only to data in RAM, while the data kept in storage are always encrypted.
     - you will have an ability to choose the Data Center in which your Virtual PC will run.
     - your home router or your mobile on a cell phone network will reveal their network IP address to the Data Center's network. This is standard with the IP protocol used by the Internet. This does not reveal any transmitted data, just the source IP address (e.g. router) and the destination IP which is the address of your virtual machine. You can't hide the destination, but if you want to hide your source IP address, your need to look for Tor or other similar solutions. 
-- **Government agency** may compel the Data Center to perform the above actions, using the due process or covertly.
+- **Government agency**. Cloud PC drastically increases your privacy, but the government agency may come knocking. We can't help such an agency, as we have no access to your Cloud PC. But they can and will be able to compel the Data Center to perform the above actions, using the due process or covertly. 
 
 
