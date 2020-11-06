@@ -16,23 +16,44 @@ This segment of the market does not exist today, closest to it being the VPS. VP
 
 ## Network
 
+### Advantages compared to common VPN
+
+
+
+    Slow, inconsistent speeds
+    Claim no logging, but no proof
+    Shared, dirty IP addresses
+    Limited number of devices
+
+GhostiFi VPS VPN
+
+    1Gbps consistent speed
+    Provable no logging
+    Dedicated, clean IP addresses
+    Unlimited devices
+
+
+| Traditional shared VPN | Personal VPN |
+| --- | --- |
+| inconsistent speeds | guaranteed speed |
+| No logging promise  | Logging impossibility |
+| Limited number of devices | Unlimited devices |
+
+### Major features
+
 We use Wireguard, the latest network encryption and virtualization technology, which allows us to offer you:
 
-- Secure line on public Wifi and even at home? - warp
-    - wireguard on LAN
-- No snooping of browsing history by ISP - warp
-- Service mesh: VLAN for Airdrop and P2P apps
-    - why do u need one? - no warp
-    - maybe just VLAN, and not even VPN? 
-    - teams 
-- Firewall
-- IPv6 vs IPv4
+- **Secure your line** on public WiFi (cafe, airport, etc.). Those are the feeding grounds even for kids learning to be hackers.
+- **No snooping by your internet provider (ISP)**. They see and may record all your browsing history. Yikes!
+- **Virtual network for all your devices**. You can now do a secure Airdrop between a phone on cell network and your Mac on WiFi.
 
 ### Premium features
 
 - **No snooping by websites**. By default, the websites you viti will see the same IP address that they would see when you are not using our solution. We offer an option for you to come to them with a different temporary IP address. Gives you that extra protection.
 - **Block ads in apps and browser**. Add do a full surveilance on us. This option will blocs many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is over. Personal Cloud offers alternative apps that never take your data.
 - **Pay with cryptocurrnecy** to avoid giving us your name and card when signing up.
+- **Firewall** your devices may already have some protection from hackers. But you may want more control and this will give you that extra peace of mind, protecting all your connected devices at once.
+- IPv6 vs IPv4
 
 ### Not supported
 This solution is built of privacy. If you're doing it to mask potentially illegal activity, don't - you will get in trouble. This may include:
