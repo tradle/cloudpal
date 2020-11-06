@@ -1,11 +1,11 @@
 ## Premise
 
-1. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, without significant investments made by Megascalers (AWS, Azure and GCP).
+1. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. This is the next major cycle of Personal Computing, coming after PCs and Mobiles.
 
-1. Despite the dominance of Megascaler / Hyperscalers, Cloud industry is surging with new entrants like Fly.io and wuth the signifant evolution among the existing ones, like Cloudflare, Fastly.com.
+1. Despite the dominance of Megascaler / Hyperscalers, the inovation did not stop. Cloud industry is surging with the new entrants in Edge Cloud like Fly.io and with the signifant evolution among the existing ones, like Cloudflare and Fastly.com.
 
-1. There is one area that Hyperscalers are not addressing today, a **Personal Cloud**. 
-This segment of the market does not exist today, closest to it being the VPS. VPS business existed since 1990s but its target audience was always the techically savvy. Personal Cloud is for the mass consumer.
+1. There is one area though that neither Hyperscalers nor others are doing today, a **Personal Cloud**. 
+This segment of the market does not exist yet, closest to it being the VPS. VPS business existed since 1990s but its target audience was always the techically savvy. Personal Cloud is for the mass consumer.
 
 ## Goals of the Personal Cloud
 1. People became a product of Facebook, Google and other SaaS app providers. Our goal is to restore the Internet to the conditions when apps do not own us and our data. 
