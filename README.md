@@ -1,6 +1,5 @@
 ## Premise
-_The world seems to swing back and forth between personal and shared economy. We are entering into another cycle of Perso
-nal computing, Cloud PC._ 
+_The world seems to swing back and forth between personal and shared computing models. We are about to enter into another cycle of Personal computing, Cloud PC._ 
 
 1. **What makes this possible**. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
 
@@ -9,7 +8,8 @@ nal computing, Cloud PC._
 1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud PC for consumers. Although VPS business has existed since the 1990s, its target audience has always been the techical crowd. 
 
 ## Goals of Cloud PC
-1. People became not just users but the product to get monetized by Facebook, Google and other SaaS app providers. Our goal is to restore the Internet to the conditions when app companies did not own our data and did not know how we chose to use their apps.
+1. We all now understand that we became not just the beneficiaries of the Internet, but the product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give our all private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps whereever we go and whatever we. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
+Cloud PC will restore the Internet to the prior conditions when app companies did not own our data and did not know how we chose to use their apps.
 2. We live in an increasingly multi-device world, with mobiles, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal system to manage those devices and help them exchange data securely. Consider Cloud PC as one of such devices, a linch pin in such a system, helping connect, sync, coordinate, recover and transition all other devices. Cloud PC is the most he reliable of our devices, the most adaptive to our network, storage and processing needs. Cloud PC is also the the one that evolves the fastest of them all.
 
 Cloud PC comes with 3 major components: network, compute and data virtualization
