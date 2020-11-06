@@ -18,21 +18,6 @@ This segment of the market does not exist today, closest to it being the VPS. VP
 
 ### Advantages compared to common VPN
 
-
-
-    Slow, inconsistent speeds
-    Claim no logging, but no proof
-    Shared, dirty IP addresses
-    Limited number of devices
-
-GhostiFi VPS VPN
-
-    1Gbps consistent speed
-    Provable no logging
-    Dedicated, clean IP addresses
-    Unlimited devices
-
-
 | Traditional shared VPN | Personal VPN |
 | --- | --- |
 | inconsistent speeds | guaranteed speed |
