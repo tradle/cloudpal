@@ -20,9 +20,9 @@ This segment of the market does not exist today, closest to it being the VPS. VP
 
 | Traditional shared VPN | Personal VPN |
 | --- | --- |
+| Provider has a way to record data decrypted by the VPN | Impossibility of that |
 | No logging of your browsing history promise  | Logging impossibility |
 | Limited number of devices | Unlimited devices |
-| Inconsistent speed as a multi-tenant solution | Guaranteed speed of a single tenant |
 
 ### Major features
 
