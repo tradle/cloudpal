@@ -1,18 +1,18 @@
 ## Premise
 _The world seems to swing back and forth between personal and shared economy. We are entering into another cycle of Perso
-nal, Personal Cloud._ 
+nal computing, Cloud PC._ 
 
-1. **What makes it possible**. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
+1. **What makes this possible**. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
 
-1. **Spinging from the shadow of Big Tech**. Despite the dominance of Megascaler / Hyperscalers, the inovation did not stop. Cloud industry is surging with the new entrants in Edge Cloud like Fly.io and with the signifant evolution among the existing ones, like Cloudflare and Fastly.com.
+1. **Cloud commoditization**. Despite the dominance of Megascaler / Hyperscalers, the inovation on the Edge did not stop, with Cloudflare and Fastly.com adding serverless compute, Virtual Private Server (VPS) players like Linode, Digital Ocean, Vultr etc. adding AWS S3-compatible Object Storage and other services, popularized by AWS. 
 
-1. **Different from VPS** There is one area though that neither Hyperscalers nor others are working on today, a Personal Cloud. This market segment does not exist yet, with the closest to it being the VPS market. Although VPS business exists since the 1990s, its target audience has always been the techical crowd. Personal Cloud is the VPS for the mass market.
+1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud PC for consumers. Although VPS business has existed since the 1990s, its target audience has always been the techical crowd. 
 
-## Goals of the Personal Cloud
+## Goals of Cloud PC
 1. People became not just users but the product to get monetized by Facebook, Google and other SaaS app providers. Our goal is to restore the Internet to the conditions when app companies did not own our data and did not know how we chose to use their apps.
-2. We live in an increasingly multi-device world, with mobile, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal operating system to manage those devices. To make things easier for us this personal OS can create one virtual secure network, with all devices logging into it from many places. This allows to exchange data securely between our devices. Cloud is one of such devices, with specific capabilities that enahnce operations of other personal devices. Cloud 
+2. We live in an increasingly multi-device world, with mobiles, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal system to manage those devices and help them exchange data securely. Consider Cloud PC as one of such devices, a linch pin in such a system, helping connect, sync, coordinate, recover and transition all other devices. Cloud PC is the most he reliable of our devices, the most adaptive to our network, storage and processing needs. Cloud PC is also the the one that evolves the fastest of them all.
 
-Personal Cloud comes with 3 major components: network, compute and data virtualization
+Cloud PC comes with 3 major components: network, compute and data virtualization
 
 ## 1. Network (your personal VPN)
 
@@ -41,7 +41,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **Super-lean for your data plan** The overhead of encryption is very low and beats most traditional VPNs. No extra charge. Yay!
 - **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
-- **Block ads in all apps and all browsers on all devices**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Personal Cloud offers alternative apps that never take your data.
+- **Block ads in all apps and all browsers on all devices**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Cloud PC offers alternative apps that never take your data.
 - **Firewall** your devices may already have some additional protection from hackers. This is a must in addition to securing the line to Internet. But you may want more control and this option will give you that extra peace of mind, protecting all your connected devices at once.
 - **IPv6 vs IPv4**. Internet is running out of addresses and older IPv4 addresses often get an extra surcharge now. IPv6 addresses are more abundant than the stars in the Universe, they are usually free, but not all apps support them. So we help bridging them.
 
