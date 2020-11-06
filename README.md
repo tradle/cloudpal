@@ -34,7 +34,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 ### Premium features
 
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
-- **Block ads in apps and browser**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Personal Cloud offers alternative apps that never take your data.
+- **Block ads in all apps and all browsers on all devices**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Personal Cloud offers alternative apps that never take your data.
 - **Pay with cryptocurrnecy** to avoid giving us your name and card when signing up.
 - **Firewall** your devices may already have some protection from hackers. But you may want more control and this will give you that extra peace of mind, protecting all your connected devices at once.
 - IPv6 vs IPv4
