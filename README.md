@@ -16,6 +16,7 @@ Restore the Internet to the condition of  
 
 Why VPN?
 - Secure line on public Wifi and even at home? - warp
+    - wireguard on LAN
 - No snooping of browsing history by ISP - warp
 - No snooping by websites (via IP + cookies) - no-warp
     - $ premium  - egress NAT. Need reputation system to avoid dirty IPs
