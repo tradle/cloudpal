@@ -5,7 +5,7 @@
 1. Despite the dominance of Megascaler / Hyperscalers, the inovation did not stop. Cloud industry is surging with the new entrants in Edge Cloud like Fly.io and with the signifant evolution among the existing ones, like Cloudflare and Fastly.com.
 
 1. There is one area though that neither Hyperscalers nor others are working on today, a **Personal Cloud**. 
-This segment of the market does not exist yet, closest to it being the VPS. VPS business existed since 1990s but its target audience was always the techically savvy. Personal Cloud is for the mass consumer.
+This market segment does not exist yet, with the closest to it being the VPS market. Although VPS business exists since the 1990s, its target audience has always been the techical crowd. Personal Cloud is the VPS for the mass market.
 
 ## Goals of the Personal Cloud
 1. People became not just users but the product to get monetized by Facebook, Google and other SaaS app providers. Our goal is to restore the Internet to the conditions when app companies did not own our data and did not know how we chose to use their apps.
