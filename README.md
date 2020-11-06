@@ -13,7 +13,6 @@ Restore the Internet to the condition of  
 3 major components: network, compute and data virtualization
 
 ## Network
-
 Why VPN?
 - Secure line on public Wifi and even at home? - warp
     - wireguard on LAN
@@ -32,5 +31,11 @@ Why VPN?
 - pay with crypto first 
 - QUESTION - No logs? if I save browsing history there, can someone snoop? Must be encrypted …
 - 
+
+### Not aimed for and not supported
+- Torrenting of movies and other copyrighted materials
+- Geolocation switching to watch Netflix shows not available in your home country
+- Anonymity of your home IP address
+
 
 
