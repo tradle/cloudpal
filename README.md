@@ -16,13 +16,14 @@ Personal Cloud comes with 3 major components: network, compute and data virtuali
 ## Network, your personal VPN 
 
 ### Advantages over traditional VPN
+Traditional VPN offers protection of connecting you to the Internet securely. We do that and more.
 
 | Traditional shared VPN | Personal VPN |
 | --- | --- |
 | Provider has a way to record data decrypted by the VPN | Impossibility of that |
 | No logging of your browsing history promise  | Logging impossibility |
 | Limited number of devices | Unlimited devices |
-| Not possible | Virtual network for all your devices**. Think Airdrop between any of your devices, no matter where they are |
+| Not possible | Virtual network for all your devices. Think Airdrop between any of your devices, no matter where they are |
 
 ### Common features of a VPN
 
@@ -31,7 +32,7 @@ Personal Cloud comes with 3 major components: network, compute and data virtuali
 
 ### Premium features
 
-- **No snooping by websites**. By default, the websites you viti will see the same IP address that they would see when you are not using our solution. We offer an option for you to come to them with a different temporary IP address. Gives you that extra protection.
+- **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
 - **Block ads in apps and browser**. Add do a full surveilance on us. This option will blocs many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is over. Personal Cloud offers alternative apps that never take your data.
 - **Pay with cryptocurrnecy** to avoid giving us your name and card when signing up.
 - **Firewall** your devices may already have some protection from hackers. But you may want more control and this will give you that extra peace of mind, protecting all your connected devices at once.
