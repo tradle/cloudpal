@@ -1,4 +1,4 @@
-# Premise
+## Premise
 
 1. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, without significant investments made by Megascalers (AWS, Azure and GCP).
 
@@ -7,24 +7,22 @@
 1. There is one area that Hyperscalers are not addressing today, a **Personal Cloud**. 
 This segment of the market does not exist today, closest to it being the VPS. VPS business existed since 1990s but its target audience was always the techically savvy. Personal Cloud is for the mass consumer.
 
-# Goals of Personal Cloud
+## Goals of the Personal Cloud
 1. People became a product of Facebook, Google and other SaaS app providers. Our goal is to restore the Internet to the conditions when apps do not own us and our data. 
 2. We are live in a increasingly multi-device world, with mobile, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal operating system to manage those devices, put them on one virtual secure network, while logging into it from many places, to exchange data securely between our devices and to run AI and classic algorithms on them, adjusting well to the capabilities. Cloud is one of such devices, with specific capabilities that enahnce operations of other personal devices. Cloud 
 
-# Components of the Personal Cloud
-3 major components: network, compute and data virtualization
+Personal Cloud comes with 3 major components: network, compute and data virtualization
 
-## Network
+## Network, your personal VPN 
 
-### Advantages compared to common VPN
+### Advantages over traditional VPN
 
 | Traditional shared VPN | Personal VPN |
 | --- | --- |
 | Provider has a way to record data decrypted by the VPN | Impossibility of that |
 | No logging of your browsing history promise  | Logging impossibility |
 | Limited number of devices | Unlimited devices |
-| Not possible | Virtual network for all your devices**. You can now do a secure Airdrop between a phone on cell network and your Mac on WiFi |
-
+| Not possible | Virtual network for all your devices**. Think Airdrop between any of your devices, no matter where they are |
 
 ### Common features of a VPN
 
