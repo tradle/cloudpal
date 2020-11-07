@@ -22,7 +22,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **VPN usually transfers more data hurting your data plan**. Here the overhead is minimal!
 
 ### Common VPN features
-- **Secure your line on public WiFi** (cafe, airport, etc). Public WiFi is the feeding ground kiddie hackers in training, you become an easy target without the VPN. Stay safe!
+- **Secure your line on public WiFi** (cafe, airport, etc). Public WiFi is the feeding ground for hackers-in-training, it is that easy to spy on you there. Use VPN. Stay safe!
 - **No more snooping by your internet provider (ISP)**. This includes your mobile operator too! They see all your browsing and may record your browsing history. Yikes!
 
 ### Unique Privacy features
@@ -43,7 +43,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
     - Do not allow outbound traffic to the internet from the Cloud PC. This removes the VPN capability leaving you with a virtual network for your devices
     - Whitelist sites on the internet that are allowed
     - Blacklist sites on the internet that are not allowed
-- **Securing DNS**. 
+- **Securing DNS**. DNS is the address book of the Internet. It is quite old and insecure. A lot of hacks on the Internet today are based on intercepting the DNS requests and giving you the wrong address. You think to go to the bank, but you come to hacker's home. Surveilance states like to outlaw securing the DNS, as this is how they spy on their population.
 - **IPv6 vs IPv4**. Internet is running out of addresses and older IPv4 addresses often get an extra surcharge now. IPv6 addresses are more abundant than the stars in the Universe, they are usually free, but not all apps support them. So we will help bridging them.
 
 ### Not supported
