@@ -15,12 +15,11 @@ Cloud PC will restore the Internet to the prior conditions when app companies di
 Cloud PC comes with 3 major components: network, compute and data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
 
 ## Network (your personal VPN)
-Cloud PC helps form a Virtual network for all your devices. Allow the outbound Internet from it and it becomes a Personal VPN.
-
-Modern design allows high speeds with low encryption overhead.
+Cloud PC helps connects all your devices onto a single virtual network. 
+Allow the outbound Internet from it and it becomes a Personal VPN.
 
 ### Advantages of Personal over traditional VPN
-Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps that VPNs does not offer today. 
+Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. In addition, its modern design allows high speeds with low encryption overhead.
 
 | Traditional (shared) VPN | Personal VPN |
 | --- | --- |
