@@ -17,9 +17,8 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 | Virtual network for all your devices| No | Yes | That is direct connections betweem your devices, no matter where they are. Apps that use this, feel magical. Stay tuned... |
 
 ### Beauty of the modern design
-- **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online almost instantly. Feels so nice compared to leading VPN services on the market!
-- **VPN usually makes your network slower** Here you will not notice it! (we use WireGuard which is [58% faster than OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/), commonly used by the VPNs).
-- **VPN usually transfers more data hurting your data plan**. Here the overhead is minimal!
+- **Stay connected with network interruptions**. Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online almost instantly. Feels so nice compared to leading VPN services on the market!
+- **VPN usually makes your network slower**. Here you will not notice it! (we use WireGuard which is [58% faster than OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/), commonly used by the VPNs).
 
 ### Common VPN features
 - **Secure your line on public WiFi** (cafe, airport, etc). Public WiFi is the feeding ground for hackers-in-training, it is that easy to spy on you there. Use VPN. Stay safe!
@@ -35,7 +34,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
 
 ### Planned features
-- **Direct connections**. We currently relay all traffic between devices via your Cloud PC. But it is sometimes possible to establish a direct connection between devices. This is not easy as all devices nowadays work behind the firewalls that replace device's direct IP address with the IP address of the router (NAT). We might use [Hyperswarm](https://github.com/hyperswarm/hyperswarm) for this. But the complexity of NAT is such that a multi-path network might be required for reliability, [falling back seamlessly from the direct connection to the relayed one](https://news.ycombinator.com/item?id=22467879).
+- **Direct connections**. We will currently relay all traffic between devices via your Cloud PC. But it is sometimes possible to establish a direct connection between devices. This is not easy as all devices nowadays work behind the firewalls that replace device's direct IP address with the IP address of the router (NAT). We might use [Hyperswarm](https://github.com/hyperswarm/hyperswarm) for this. But the complexity of NAT is such that a multi-path network might be required for reliability, [falling back seamlessly from the direct connection to the relayed one](https://news.ycombinator.com/item?id=22467879).
 - **Extend the private network to your distributed team or just your friends**. This capability has been offered to the Enterprise users by Cisco and others for awhile and now it is simplified and made availabe for you.
 - **Block ads in all apps and all browsers on all devices**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Cloud PC offers alternative apps that never take your data.
 - **Bypass restrictive firewalls** You may be on campus and the only traffic that is allowed to the Internet is HTTPS (while we use UDP). 
