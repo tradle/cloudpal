@@ -11,7 +11,7 @@ You have a local private network today behind your home router. CloudPC creates 
 How will my devices that run those P2P apps find each other, you might ask? How will I add devices to the network, like I do via the central corporate server? How do I remove them, when the break, get stolen or just replaced? Answers are coming. Keep reading.
 
 ### VPN
-Each device on your private network will still talk to the Internet directly, and are more identifiable. To give you more privacy, we can route all traffic through your CloudPC. Then CloudPC becomes your **Personal VPN**, a VPN with a number of advantages.
+Each device on your private network will still talk to the Internet directly, and are more identifiable. To give you more privacy, we can route all traffic through your CloudPC. Then CloudPC becomes your **Personal VPN**, a VPN with a number of advantages and no downsides.
 
 ## Personal vs traditional VPN
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. 
