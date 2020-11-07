@@ -1,10 +1,9 @@
 ## Your Network
-Cloud PC connects all your devices onto a secure virtual network. 
+Cloud PC connects all your devices in a private network. 
 
-It is an encrypted network that looks and works like a local network, but it's actually distributed, so devices can be at different locations or on different cell or WiFi networks.
-Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech, we need several things. Virtual network is one of them, and it allows applications to connect peer-to-peer, without a central server, the way Internet was originally built.
+You have a local private network today behind your home router. CloudPC creates an encrypted network so that devices at different locations and on different cell / WiFi networks appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech, we need several things. Virtual network is the first step, it allows apps to connect peer-to-peer, without a central server, the way Internet was originally built.
 
-- As a bonus, if you allow the outbound Internet from your CloudPC it becomes a **Personal VPN**.
+Each device on your private network still talk to the Internet directly. But you can instead force them to go to the Internet via your CloudPC. Then it becomes a **Personal VPN**.
 
 ### Personal vs traditional VPN
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. 
