@@ -17,7 +17,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 | Virtual network for all your devices| No | Yes | Think Airdrop between any of your devices, no matter where they are. Apps that use this, feel magical. Stay tuned... |
 
 ### Beauty of the modern design
-- **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
+- **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online almost instantly. Feels so nice compared to leading VPN services on the market!
 - **VPN usually makes your network slower** Here you will not notice it! (we use WireGuard which is [58% faster than OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/), commonly used by the VPNs).
 - **VPN usually transfers more data hurting your data plan**. Here the overhead is minimal!
 
