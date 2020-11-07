@@ -1,20 +1,3 @@
-## Premise
-_The world seems to swing back and forth between personal and shared computing models. We are about to enter into another cycle of Personal computing, Cloud PC._ 
-
-1. **What makes this possible**. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
-
-1. **Cloud commoditization**. Despite the dominance of Megascaler / Hyperscalers, the inovation on the Edge did not stop, with Cloudflare and Fastly.com adding serverless compute, Virtual Private Server (VPS) providers like Linode, Digital Ocean, Vultr etc. adding AWS S3-compatible Object Storage and other services, popularized by AWS. 
-
-1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud PC for consumers. Although VPS business has existed since the 1990s, its target audience has always been the techical crowd. 
-
-## Goals of Cloud PC
-1. We all now understand that we became not just the beneficiaries of the Internet, but the product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give our all private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps whereever we go and whatever we. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
-Cloud PC will restore the Internet to the prior conditions when app companies did not own our data and did not know how we chose to use their apps.
-
-2. We live in an increasingly multi-device world, with mobiles, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal system to manage those devices and help them exchange data securely. Consider Cloud PC as one of such devices, a linch pin in such a system, helping connect, sync, coordinate, recover and transition all other devices. Cloud PC is the most he reliable of our devices, the most adaptive to our network, storage and processing needs. Cloud PC is also the the one that evolves the fastest of them all.
-
-Cloud PC comes with 3 major components: network, compute and data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
-
 ## Network (your personal VPN)
 Cloud PC helps connects all your devices onto a single virtual network. 
 Allow the outbound Internet from it and it becomes a Personal VPN.
@@ -68,4 +51,20 @@ It is also important to understand the limitations on our ability to protect you
     - your home router or your mobile on a cell phone network will reveal their network IP address to the Data Center's network. This is standard with the IP protocol used by the Internet. This does not reveal any transmitted data, just the source IP address (e.g. router) and the destination IP which is the address of your virtual machine. You can't hide the destination, but if you want to hide your source IP address, your need to look for Tor or other similar solutions. 
 - **Government agency**. Cloud PC drastically increases your privacy, but the government agency may come knocking. We can't help such an agency, as we have no access to your Cloud PC. The government can and will be able to compel the Data Center to perform the above actions, using the due process or covertly. You need to obey the law of your jurisdiction.
 
+## Background
+_The world seems to swing back and forth between personal and shared computing models. We are about to enter into another cycle of Personal computing, Cloud PC._ 
+
+1. **What makes this possible**. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
+
+1. **Cloud commoditization**. Despite the dominance of Megascaler / Hyperscalers, the inovation on the Edge did not stop, with Cloudflare and Fastly.com adding serverless compute, Virtual Private Server (VPS) providers like Linode, Digital Ocean, Vultr etc. adding AWS S3-compatible Object Storage and other services, popularized by AWS. 
+
+1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud PC for consumers. Although VPS business has existed since the 1990s, its target audience has always been the techical crowd. 
+
+## Goals of Cloud PC
+1. We all now understand that we became not just the beneficiaries of the Internet, but the product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give our all private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps whereever we go and whatever we. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
+Cloud PC will restore the Internet to the prior conditions when app companies did not own our data and did not know how we chose to use their apps.
+
+2. We live in an increasingly multi-device world, with mobiles, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal system to manage those devices and help them exchange data securely. Consider Cloud PC as one of such devices, a linch pin in such a system, helping connect, sync, coordinate, recover and transition all other devices. Cloud PC is the most he reliable of our devices, the most adaptive to our network, storage and processing needs. Cloud PC is also the the one that evolves the fastest of them all.
+
+Cloud PC comes with 3 major components: network, compute and data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
 
