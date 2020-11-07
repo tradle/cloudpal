@@ -12,9 +12,9 @@ _The world seems to swing back and forth between personal and shared computing m
 Cloud PC will restore the Internet to the prior conditions when app companies did not own our data and did not know how we chose to use their apps.
 2. We live in an increasingly multi-device world, with mobiles, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal system to manage those devices and help them exchange data securely. Consider Cloud PC as one of such devices, a linch pin in such a system, helping connect, sync, coordinate, recover and transition all other devices. Cloud PC is the most he reliable of our devices, the most adaptive to our network, storage and processing needs. Cloud PC is also the the one that evolves the fastest of them all.
 
-Cloud PC comes with 3 major components: network, compute and data virtualization
+Cloud PC comes with 3 major components: network, compute and data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
 
-## 1. Network (your personal VPN)
+## Network (your personal VPN)
 
 ### Advantages of Personal over traditional VPN
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps that VPNs does not offer today.
