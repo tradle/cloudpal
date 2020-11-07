@@ -4,14 +4,16 @@ We are all deeply dependent on Big Tech nowadays. And much of Big Tech means tha
 
 The good thing is, we finally have the means to do just that. Instead of a Big Tech in the center, we will use our own Cloud PC. Cloud PC sits on a fast and reliable network and is always on, and thus, it can help connect our many devices.
 
-### Cloud PC connects all your devices onto a private network. 
+### Connectin my devices onto a private network
+You have a local private network today behind your home router. CloudPC creates an encrypted network so that devices at different locations and on different cell / WiFi networks appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech in the center, we need several things. Virtual private network is the first step, it will allow apps to connect peer-to-peer, the way Internet was originally built.
 
-You have a local private network today behind your home router. CloudPC creates an encrypted network so that devices at different locations and on different cell / WiFi networks appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech, we need several things. Virtual network is the first step, it allows apps to connect peer-to-peer, without a central server, the way Internet was originally built.
+### Device discovery
+How will my devices that run those P2P apps find each other, you might ask? How will I add devices to the network, like I do via the central corporate server? How do I remove them, when the break, get stolen or just replaced? Answers are coming. Keep reading.
 
 ### VPN
-Each device on your private network still talks to the Internet directly. But you can instead switch them to go to the Internet via your CloudPC. Then it becomes a **Personal VPN**.
+Each device on your private network will still talk to the Internet directly, and are more identifiable. To give you more privacy, we can route all traffic through your CloudPC. Then CloudPC becomes your **Personal VPN**, a VPN with a number of advantages.
 
-### Personal vs traditional VPN
+## Personal vs traditional VPN
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. 
 
 | Function | Traditional (shared) VPN | Personal VPN | Notes | 
