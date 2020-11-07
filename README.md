@@ -1,6 +1,6 @@
 ## Your Network
 - Cloud PC connects all your devices onto a secure virtual network. It is an encrypted network that looks and works like a local network, but it's actually distributed, so devices can be at different locations or on different cell or WiFi networks.
-Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us. To rebuild the Internet without relying on Big Tech, we need several things. Virtual network is one of them, it allows applications to connect peer-to-peer, without a central server, the way Internet was originally built.
+Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech, we need several things. Virtual network is one of them, and it allows applications to connect peer-to-peer, without a central server, the way Internet was originally built.
 
 - As a bonus, allow the outbound Internet from your CloudPC and it becomes a **Personal VPN**.
 
