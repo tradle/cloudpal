@@ -17,8 +17,10 @@ Cloud PC comes with 3 major components: network, compute and data virtualization
 ## Network (your personal VPN)
 Cloud PC helps form a Virtual network for all your devices. Allow the outbound Internet from it and it becomes a Personal VPN.
 
+Modern design allows high speeds with low encryption overhead.
+
 ### Advantages of Personal over traditional VPN
-Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps that VPNs does not offer today.
+Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps that VPNs does not offer today. 
 
 | Traditional (shared) VPN | Personal VPN |
 | --- | --- |
@@ -38,8 +40,6 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **Magical private network for all your devices**. Yes, it sounds like Apple-speak, but seriosly, it feels magical to have all your devices across the globe, including your Cloud PC, on one virtual network chatting securely. Seriosly, this was what Enterprises are still paying big bucks for. And without Google or anyone else in the middle! Is that even possible? Now those among you that are techies, think of the Peer to Peer apps which you can make from this! [Give us a shout on the support forum](https://discord.gg/343jUAKP) - we have a dozen ideas for you and will even help you build them!
 
 ### Premium features
-- **Close-to-metal-speeds** This beats most traditional VPNs. We do not charge for this. Enjoy!
-- **Super-lean for your data plan** The overhead of encryption is very low and beats most traditional VPNs. No extra charge. Yay!
 - **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
 
