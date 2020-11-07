@@ -74,3 +74,7 @@ Cloud PC will restore the Internet to the prior conditions when app companies di
 
 Cloud PC comes with 3 major components: network, compute and data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
 
+## FAQ
+**How can I trust what you claim here?** We are 100% open source, so every claim can be verified by experts. We will provide official security audits in due course.
+
+
