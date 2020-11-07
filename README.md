@@ -13,7 +13,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 | All devices hide bihind the VPN | Yes | Yes |
 | 'No recording' of decrypted data | Impossible to verify | Yes | We do not run own VPN server, you do - on your own Cloud PC|
 | 'No logging' for your browsing clicks | Impossible to verify | Yes | You run your own VPN. You choose to log or not to log. By default - no logging|
-| Unlimited number of devices | No | Yes | Use it on your phone, tablet, PC. You it yourself, give to your kids |
+| Unlimited number of devices | No | Yes | Use it on your phone, tablet, PC. Use it yourself, give to your kids |
 | Virtual network for all your devices| No | Yes | Think Airdrop between any of your devices, no matter where they are |
 
 ### Beauty of the modern design
