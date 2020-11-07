@@ -1,11 +1,14 @@
 ## Your Network
-We are all deeply dependent on Big Tech nowadays. And much of Big Tech means that we are continuously under corporate surveilance. We need peer-to-peer (P2P) apps, that work without a central player, to became reliable enouch. For that we need a reliable private P2P Network. The good thing is, we finally have the means to do just that. Instead of a Big Tech in the center, we will use our own Cloud PC. Cloud PC sits on a fast and reliable network and is always on, and thus, it can help connect our many devices.
 
-## Summary
-Cloud PC connects all your devices onto a private network. 
+We are all deeply dependent on Big Tech nowadays. And much of Big Tech means that we are continuously under corporate surveilance. We need a reliable peer-to-peer (P2P) private Network, so that our apps can work without a central corporate player. 
+
+The good thing is, we finally have the means to do just that. Instead of a Big Tech in the center, we will use our own Cloud PC. Cloud PC sits on a fast and reliable network and is always on, and thus, it can help connect our many devices.
+
+### Cloud PC connects all your devices onto a private network. 
 
 You have a local private network today behind your home router. CloudPC creates an encrypted network so that devices at different locations and on different cell / WiFi networks appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech, we need several things. Virtual network is the first step, it allows apps to connect peer-to-peer, without a central server, the way Internet was originally built.
 
+### VPN
 Each device on your private network still talks to the Internet directly. But you can instead switch them to go to the Internet via your CloudPC. Then it becomes a **Personal VPN**.
 
 ### Personal vs traditional VPN
@@ -19,7 +22,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 | Unlimited number of devices | No | Yes | Use it on your phone, tablet, laptop, desktop. Use it yourself, give to your kids |
 | Virtual network for all your devices| No | Yes | That is direct connections betweem your devices, no matter where they are. Apps that use this, feel magical. Stay tuned... |
 
-### Beauty of the modern design
+### Beauty of the modern network design
 - **Stay connected with network interruptions**. Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online almost instantly. Feels so nice compared to leading VPN services on the market!
 - **VPN usually makes your network slower**. Here you will not notice it! (we use WireGuard which is [58% faster than OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/), commonly used by the VPNs).
 
@@ -83,5 +86,5 @@ Cloud PC comes with 3 major components: network, compute and data virtualization
 ## FAQ
 **How can I trust what you claim here?** We are 100% open source, so every claim can be verified by experts. We will provide official security audits in due course.
 
-**What is a private virtual network?** A number of open source offerings exist for this. Take a look at Tinc, Wormhole, Zerotier. Here is a technical video for [Zerotier](https://www.youtube.com/watch?v=Bl_Vau8wtgc) that does a good job explaining SDN and SD-WAN terms are and how they relate to VPN.
+**What is a private virtual network?** A number of open source offerings exist for this. Take a look at Tinc, Wormhole, Zerotier. Here is a technical video for [Zerotier](https://www.youtube.com/watch?v=Bl_Vau8wtgc) that does a good job explaining Software Defined Network (SDN) and Software-Defined Wide Area Network (SD-WAN) and how they relate to VPN.
 
