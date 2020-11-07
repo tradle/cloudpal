@@ -1,5 +1,8 @@
 ## Your Network
-Cloud PC connects all your devices in a private network. 
+We are all deeply dependent on Big Tech nowadays. And much of Big Tech means that we are continuously under corporate surveilance. We need peer-to-peer (P2P) apps, that work without a central player, to became reliable enouch. For that we need a reliable private P2P Network. The good thing is, we finally have the means to do just that. Instead of a Big Tech in the center, we will use our own Cloud PC. Cloud PC sits on a fast and reliable network and is always on, and thus, it can help connect our many devices.
+
+## Summary
+Cloud PC connects all your devices onto a private network. 
 
 You have a local private network today behind your home router. CloudPC creates an encrypted network so that devices at different locations and on different cell / WiFi networks appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech, we need several things. Virtual network is the first step, it allows apps to connect peer-to-peer, without a central server, the way Internet was originally built.
 
