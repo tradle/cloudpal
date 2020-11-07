@@ -1,5 +1,5 @@
 ## Your Network
-Cloud PC connects all your devices onto a single virtual network. 
+Cloud PC connects all your devices onto a secure virtual network. 
 
 Allow the outbound Internet from CloudPC and it becomes a **Personal VPN**.
 
@@ -32,6 +32,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
 
 ### Planned features
+- **Extend the private network to your distributed team or just your friends**. This capability has been offered to the Enterprise users by Cisco and others for awhile and now it is simplified and made availabe for you.
 - **Block ads in all apps and all browsers on all devices**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Cloud PC offers alternative apps that never take your data.
 - **Bypass restrictive firewalls** You may be on campus and the only traffic that is allowed to the Internet is HTTPS (while we use UDP). 
 - **Add a Firewall** your devices may already have some additional protection from hackers. This is a must in addition to securing the line to Internet. But you may want more control and this option will give you that extra peace of mind, protecting all your connected devices at once. For example:
