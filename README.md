@@ -8,13 +8,13 @@ Each device on your private network still talks to the Internet directly. But yo
 ### Personal vs traditional VPN
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. 
 
-| Traditional (shared) VPN | Personal VPN |
-| --- | --- |
-| All devices hide bihind the VPN | Same |
-| Provider has a way to record data decrypted by the VPN | Impossible here, we do not run own VPN server, you do on your own Cloud PC|
-| No logging of your browsing history promise  | Impossibility of anyone looking at your browsing history, as you run your own VPN. By default it is not saved. And even if you turn it on, e.g. to sync between devices, no one has access to it, but you|
-| Limited number of devices | Unlimited devices |
-| Not possible | Virtual network for all your devices. Think Airdrop between any of your devices, no matter where they are |
+| Function | Traditional (shared) VPN | Personal VPN | Notes | 
+| --- | --- | --- |
+| All devices hide bihind the VPN | Yes | Yes |
+| 'No recording' of decrypted data | Impossible to verify | Yes | We do not run own VPN server, you do - on your own Cloud PC|
+| 'No logging' for your browsing clicks | Impossible to verify | Yes | You run your own VPN. You choose to log or not to log. By default - no logging|
+| Unlimited number of devices | No | Yes | Enough said |
+| Virtual network for all your devices| No | Yes | Think Airdrop between any of your devices, no matter where they are |
 
 ### Beauty of the modern design
 - **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
