@@ -11,7 +11,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 
 | Traditional (shared) VPN | Personal VPN |
 | --- | --- |
-| Provider has a way to record data decrypted by the VPN | Impossible here, we do not run own VPN server, you do on yoiur own Cloud PC|
+| Provider has a way to record data decrypted by the VPN | Impossible here, we do not run own VPN server, you do on your own Cloud PC|
 | No logging of your browsing history promise  | Impossibility of anyone looking at your browsing history, as you run your own VPN. By default it is not saved. And even if you turn it on, e.g. to sync between devices, no one has access to it, but you|
 | Limited number of devices | Unlimited devices |
 | Not possible | Virtual network for all your devices. Think Airdrop between any of your devices, no matter where they are |
