@@ -46,12 +46,12 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **IPv6 vs IPv4**. Internet is running out of addresses and older IPv4 addresses often get an extra surcharge now. IPv6 addresses are more abundant than the stars in the Universe, they are usually free, but not all apps support them. So we will help bridging them.
 
 ### Not supported
-This solution is built for privacy. If you're doing it to mask potentially illegal activity, don't - you will get in trouble. This may include:
+This solution is built for privacy. If you're want to use it to mask potentially illegal activity, don't - you will get in trouble. These activities may include:
 
-- This is not for torrenting of movies and other copyrighted materials
-- This is not for location switching to watch Netflix shows not available in your home country
+- Torrenting the movies and other copyrighted materials
+- Location switching to watch Netflix shows, that may not be available in your home country
 
-It is also important to understand the limitations on our ability to protect your privacy:
+We help you increase your privacy. But no privacy is absolute, even on the device you hold in your hand. So it is important for you to understand the limitations on our ability to protect you, and how we will continue to improve our solution:
 
 - **Your defence from us**. We do not have an ability to access your data, secret keys or network activity. But as we accept payments from you, we may know who you are, if you use the credit card payment mechanism. If you do not want that, pay us please with cryptocurrency if your jurisdiction allows it.
 - **Your defence from the landlord**. There are two companies you need to watch out for. Your VPN provider, that is us, and the Data Center. We can't know what you are doing, as you operate your own Virtual PC, and only you have access to it. As to the Data Center, you are fairly well isolated by running in your own VM. But this is not an absolute protection. What remains is:
