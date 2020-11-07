@@ -1,9 +1,9 @@
-## Network (your personal VPN)
+## Your Network
 Cloud PC helps connects all your devices onto a single virtual network. 
-Allow the outbound Internet from it and it becomes a Personal VPN.
+Allow the outbound Internet from CloudPC and it becomes a **Personal VPN**.
 
 ### Advantages of Personal over traditional VPN
-Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. In addition, its modern design allows high speeds with low encryption overhead.
+Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. 
 
 | Traditional (shared) VPN | Personal VPN |
 | --- | --- |
@@ -11,6 +11,11 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 | No logging of your browsing history promise  | Logging impossibility |
 | Limited number of devices | Unlimited devices |
 | Not possible | Virtual network for all your devices. Think Airdrop between any of your devices, no matter where they are |
+
+### Beauty of the modern design
+- **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
+- **VPN usually makes your network slower** Here you will not notice it!
+- **VPN usually transfers more data hurting your data plan**. Here the overhead is minimal!
 
 ### Common VPN features
 - **Secure your line on public WiFi** (cafe, airport, etc). Public WiFi is the feeding ground kiddie hackers in training, you become an easy target without the VPN. Stay safe!
@@ -23,7 +28,6 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **Magical private network for all your devices**. Yes, it sounds like Apple-speak, but seriosly, it feels magical to have all your devices across the globe, including your Cloud PC, on one virtual network chatting securely. Seriosly, this was what Enterprises are still paying big bucks for. And without Google or anyone else in the middle! Is that even possible? Now those among you that are techies, think of the Peer to Peer apps which you can make from this! [Give us a shout on the support forum](https://discord.gg/343jUAKP) - we have a dozen ideas for you and will even help you build them!
 
 ### Premium features
-- **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
 
 ### Planned features
