@@ -77,5 +77,5 @@ Cloud PC comes with 3 major components: network, compute and data virtualization
 ## FAQ
 **How can I trust what you claim here?** We are 100% open source, so every claim can be verified by experts. We will provide official security audits in due course.
 
-**What is a single private network?** A number of open source offerings exist for this. Take a look at Tinc, Wormhole, Zerotier. Here is a technical video for [Zerotier](https://www.youtube.com/watch?v=Bl_Vau8wtgc) that does a good job explaining SDN and SD-WAN terms are and how they relate to VPN.
+**What is a private virtual network?** A number of open source offerings exist for this. Take a look at Tinc, Wormhole, Zerotier. Here is a technical video for [Zerotier](https://www.youtube.com/watch?v=Bl_Vau8wtgc) that does a good job explaining SDN and SD-WAN terms are and how they relate to VPN.
 
