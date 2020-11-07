@@ -15,6 +15,7 @@ Cloud PC will restore the Internet to the prior conditions when app companies di
 Cloud PC comes with 3 major components: network, compute and data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
 
 ## Network (your personal VPN)
+Cloud PC helps form a Virtual network for all your devices. Allow the outbound Internet from it and it becomes a Personal VPN.
 
 ### Advantages of Personal over traditional VPN
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps that VPNs does not offer today.
@@ -41,9 +42,16 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **Super-lean for your data plan** The overhead of encryption is very low and beats most traditional VPNs. No extra charge. Yay!
 - **Stay connected with network interruptions** Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online instantly. Feels so nice!
 - **No snooping by the websites**. By default, the websites you visit will see the same IP address that they would see when you are not using our solution. We offer an option of a temporary IP address that they will see instead. Gives you that extra protection.
+
+### Planned features
 - **Block ads in all apps and all browsers on all devices**. We are all well aware now that Google, Facebook and other ad-based businesses have created a system of total surveilance on us. This option will block many of the ads for all of your devices, without you needeing to do anything. No more installing browser extensions, ad blockers, etc. We feel bad about advertisement supported services, but perhaps their time is coming to a close. Cloud PC offers alternative apps that never take your data.
-- **Firewall** your devices may already have some additional protection from hackers. This is a must in addition to securing the line to Internet. But you may want more control and this option will give you that extra peace of mind, protecting all your connected devices at once.
-- **IPv6 vs IPv4**. Internet is running out of addresses and older IPv4 addresses often get an extra surcharge now. IPv6 addresses are more abundant than the stars in the Universe, they are usually free, but not all apps support them. So we help bridging them.
+- **Bypass restrictive firewalls** You may be on campus and the only traffic that is allowed to the Internet is HTTPS (while we use UDP). 
+- **Add a Firewall** your devices may already have some additional protection from hackers. This is a must in addition to securing the line to Internet. But you may want more control and this option will give you that extra peace of mind, protecting all your connected devices at once. For example:
+    - Do not allow outbound traffic to the internet from the Cloud PC. This removes the VPN capability leaving you with a virtual network for your devices
+    - Whitelist sites on the internet that are allowed
+    - Blacklist sites on the internet that are not allowed
+- **Securing DNS**. 
+- **IPv6 vs IPv4**. Internet is running out of addresses and older IPv4 addresses often get an extra surcharge now. IPv6 addresses are more abundant than the stars in the Universe, they are usually free, but not all apps support them. So we will help bridging them.
 
 ### Not supported
 This solution is built for privacy. If you're doing it to mask potentially illegal activity, don't - you will get in trouble. This may include:
