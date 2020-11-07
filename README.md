@@ -6,7 +6,7 @@ Why do I need it, you ask? Today we rely on Google and other Big Tech to connect
 
 - As a bonus, if you allow the outbound Internet from your CloudPC and it becomes a **Personal VPN**.
 
-### Advantages of Personal over traditional VPN
+### Personal vs traditional VPN
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. 
 
 | Traditional (shared) VPN | Personal VPN |
