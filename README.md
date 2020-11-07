@@ -24,7 +24,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 
 ### Beauty of the modern network design
 - **Stay connected with network interruptions**. Hop in the car while on WhatsApp call and the handoff from WiFi to Cell network will be semaless. Close the lid of your laptop, open it and you are online almost instantly. Feels so nice compared to leading VPN services on the market!
-- **VPN usually makes your network slower**. Here you will not notice it! (we use WireGuard which is [58% faster than OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/), commonly used by the VPNs).
+- **VPN usually makes your network slower**. Here you will not notice it! (we use [WireGuard](https://docs.sweeting.me/s/wireguard#) which is [58% faster than OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/), commonly used by the VPNs).
 
 ### Common VPN features
 - **Secure your line on public WiFi** (cafe, airport, etc). Public WiFi is the feeding ground for hackers-in-training, it is that easy to spy on you there. Use VPN. Stay safe!
