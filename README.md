@@ -9,7 +9,7 @@ Each device on your private network still talks to the Internet directly. But yo
 Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that beter and paves the road for Cloud apps, which VPNs do not offer today. 
 
 | Function | Traditional (shared) VPN | Personal VPN | Notes | 
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | All devices hide bihind the VPN | Yes | Yes |
 | 'No recording' of decrypted data | Impossible to verify | Yes | We do not run own VPN server, you do - on your own Cloud PC|
 | 'No logging' for your browsing clicks | Impossible to verify | Yes | You run your own VPN. You choose to log or not to log. By default - no logging|
