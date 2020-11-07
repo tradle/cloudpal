@@ -1,5 +1,6 @@
 ## Your Network
 Cloud PC helps connects all your devices onto a single virtual network. 
+
 Allow the outbound Internet from CloudPC and it becomes a **Personal VPN**.
 
 ### Advantages of Personal over traditional VPN
