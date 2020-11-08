@@ -6,13 +6,13 @@ Enter CloudPal.
 
 CloudPal sits on a fast and reliable network and is always on, and thus it can help connect your many devices and apps. CloudPal is your device in the cloud, it belongs to you, controlled by you, and defends your data from intrusion on your behalf.
 
-### My global private network
+### A private network that you operate
 You are familiar with the local network today, sitting behind your home router. But when you travel, when you go to work, when you want to add other machines, at a different location, or even your car, how do you do that? CloudPal creates an encrypted distributed network so that devices at your different locations, on different cell / WiFi networks, appear to be on one local network and can communicate without Big Tech at the center. 
 
-### Adding Devices 
+### Adding devices to the network
 How will the devices find each other without a central server? How will we add new devices and remove them when they get stolen or replaced? Apparently the P2P tech has recently evolved to help us achieve just that. Keep reading.
 
-### VPN
+### VPN, securing your privacy
 Each device on your private network will still talk to the Internet directly, and are more identifiable. To give you more privacy, we can route all traffic through your CloudPC. Then CloudPC becomes your **Personal VPN**, a VPN with a number of advantages and no downsides.
 
 ## Personal vs traditional VPN
