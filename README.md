@@ -1,11 +1,11 @@
 ## Your Network
 
-We are all deeply dependent on Big Tech nowadays. And much of Big Tech means that we are continuously under corporate surveilance. We need a reliable peer-to-peer (P2P) private Network, so that our apps can work without a central corporate player. 
+We are all deeply dependent on Big Tech nowadays. And much of Big Tech usage means that we are continuously under corporate surveilance. To get out of it, we need a reliable peer-to-peer (P2P) private Network.
 
 The good thing is, we finally have the means to do just that. Instead of a Big Tech in the center, we will use our own Cloud PC. Cloud PC sits on a fast and reliable network and is always on, and thus, it can help connect our many devices.
 
 ### Connectin my devices onto a private network
-You have a local private network today behind your home router. CloudPC creates an encrypted network so that devices at different locations and on different cell / WiFi networks appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech in the center, we need several things. Virtual private network is the first step, it will allow apps to connect peer-to-peer, the way Internet was originally built.
+You use a local network today behind your home router. Cloud PC creates an encrypted distributed network so that devices at different locations, possibly on different cell / WiFi networks will appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech in the center, we need several things. Virtual private network is the first step, it will allow apps to connect peer-to-peer, the way Internet was originally built.
 
 ### Device discovery
 How will my devices that run those P2P apps find each other, you might ask? How will I add devices to the network, like I do via the central corporate server? How do I remove them, when the break, get stolen or just replaced? Answers are coming. Keep reading.
