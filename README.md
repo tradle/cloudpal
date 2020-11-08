@@ -31,7 +31,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **Faster connection**. VPNs usually make your connection slower. Here you will not notice it! (we use [WireGuard](https://docs.sweeting.me/s/wireguard#) which is [58% faster than OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/), commonly used by the VPNs).
 
 ### Common VPN features
-- **Secure your line on public WiFi** (cafe, airport, etc). Public WiFi is the feeding ground for hackers-in-training, it is that easy to spy on you there. Use VPN. Stay safe!
+- **Stop password and data theft** by securing your line on public WiFi (cafe, airport, hospital, etc). Public WiFi is the feeding ground for hackers-in-training, it is that easy to spy on you there. Use VPN. Stay safe!
 - **Privacy from ISP**. No more snooping by your internet provider. This includes your mobile operator too! They see all your browsing and may record your browsing history. Yikes!
 
 ### Unique Privacy features
