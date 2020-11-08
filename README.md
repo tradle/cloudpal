@@ -4,8 +4,8 @@ We are all deeply dependent on Big Tech nowadays. And much of Big Tech usage mea
 
 The good thing is, we finally have the means to do just that. Instead of a Big Tech in the center, we will use our own Cloud PC. Cloud PC sits on a fast and reliable network and is always on, and thus, it can help connect our many devices.
 
-### Connectin my devices onto a private network
-You use a local network today behind your home router. Cloud PC creates an encrypted distributed network so that devices at different locations, possibly on different cell / WiFi networks will appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech in the center, we need several things. Virtual private network is the first step, it will allow apps to connect peer-to-peer, the way Internet was originally built.
+### My global private network
+You are familiar with the local network today, sitting behind your home router. But when you travel, when you go to work, when you want to add other machines, at a different location, or even your car, how do you do that? Cloud PC creates an encrypted distributed network so that devices at different locations, possibly on different cell / WiFi networks will appear to be on one local network. Why do I need it, you ask? Today we rely on Google and other Big Tech to connect us and sync photos, notes, email etc. bewteen our divices. We pay the price of lost privacy for that. To rebuild the Internet that does not rely on Big Tech in the center, we need several things. Virtual private network is the first step, it will allow apps to connect peer-to-peer, the way Internet was originally built.
 
 ### Adding Devices 
 How will my devices find each other, you might ask? I need to add devices like I do via the central corporate server. Also, how do I remove them, when the break, get stolen or just get replaced? Answers are coming. Keep reading.
