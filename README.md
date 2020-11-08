@@ -1,5 +1,5 @@
 ## Your Network
-Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact most of our apps today go via some form of a central player. We pay the price of for this convenience with lost privacy as we put ourselves under non-stop corporate surveilance. 
+Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact most of our apps today go via some form of a central player. We pay the price for this convenience with lost privacy as we put ourselves under non-stop corporate surveilance. 
 
 Peer-to-Peer (P2P) apps today lack the conveinience of cloud-based apps. The judo move it to leverage Cloud's strength for P2P.
 Enter CloudPal.
