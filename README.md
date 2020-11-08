@@ -53,8 +53,8 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 - **Securing DNS**. DNS is the address book of the Internet. It is quite old and insecure. A lot of hacks on the Internet today are based on intercepting the DNS requests and giving you the wrong address. You think to go to the bank, but you come to hacker's home. Surveilance states like to outlaw securing the DNS, as this is how they spy on their population.
 - **IPv6 vs IPv4**. Internet is running out of addresses and older IPv4 addresses often get an extra surcharge now. IPv6 addresses are more abundant than the stars in the Universe, they are usually free, but not all apps support them. So we will help bridging them.
 
-### Not supported
-This solution is built for privacy. If you're want to use it to mask potentially illegal activity, don't - you will get in trouble. These activities may include:
+### Will not be supported
+This solution is built for privacy. If you want to use it to mask potentially illegal activity, don't - you will get in trouble. These activities may include:
 
 - Torrenting the movies and other copyrighted materials
 - Location switching to watch Netflix shows, that may not be available in your home country
