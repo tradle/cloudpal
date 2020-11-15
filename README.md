@@ -21,7 +21,7 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 | Function | Traditional (shared) VPN | Personal VPN | Notes | 
 | --- | --- | --- | --- |
 | All devices hide behind the VPN | Yes | Yes |
-| 'No recording' of decrypted data | Impossible to verify | Yes | We do not run own VPN server, you do - on your own CloudPal|
+| 'No recording' of data | Impossible to verify | Yes | Any VPN decrypts your traffic and can read it in clear text. Some sell it. But here we can't read it, as it is end-to-end encrypted all the way to your own VPN, running in CloudPal.|
 | 'No logging' for your browsing clicks | Impossible to verify | Yes | You run your own VPN. You choose to log or not to log. By default - no logging|
 | Unlimited number of devices | No | Yes | Use it on your phone, tablet, laptop, desktop. Use it yourself, give to your kids |
 | Virtual network for all your devices| No | Yes | That is direct connections betweem your devices, no matter where they are. Apps that use this, feel magical. Stay tuned... |
