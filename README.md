@@ -1,3 +1,5 @@
+CloudPal comes with 3 major components: Network, Compute and Data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
+
 ## Your Network
 Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact most of our apps today go via some form of a central player. We pay the price for this convenience with lost privacy as we put ourselves under non-stop corporate surveillance. 
 
@@ -86,8 +88,6 @@ _The world seems to swing back and forth between personal and shared computing m
 CloudPal will restore the Internet to the prior conditions when app companies did not own our data and did not know how we chose to use their apps.
 
 2. We live in an increasingly multi-device world, with mobiles, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal system to manage those devices and help them exchange data securely. Consider CloudPal as one of such devices, a linchpin in such a system, helping connect, sync, coordinate, recover and transition all other devices. CloudPal is the most reliable of our devices, the most adaptive to our network, storage and processing needs. CloudPal is also the one that evolves the fastest of them all.
-
-CloudPal comes with 3 major components: Network, Compute and Data virtualization. Here we focus on the Software Defined Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
 
 ## FAQ
 **How can I trust what you claim here?** We are 100% open source, so every claim can be verified by experts. We will provide official security audits in due course.
