@@ -1,4 +1,4 @@
-CloudPal comes with 3 major components: Network, Compute and Data virtualization. Here we focus on the Network designed for personal use. See separate articles on [single-tenant Personal Data system](https://github.com/tradle/why-hypercore) and on Virtual Compute (to be posted later).
+CloudPal comes with 3 major components: personal Network, Compute and Data. Here we focus on the private Network, See separate articles on [personal Data](https://github.com/tradle/why-hypercore) and, later on, on personal Compute.
 
 ## Your Network
 Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact most of our apps today go via some form of a central player. We pay the price for this convenience with lost privacy as we put ourselves under non-stop corporate surveillance. 
