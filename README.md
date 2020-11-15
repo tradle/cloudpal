@@ -32,7 +32,9 @@ Traditional VPN offers protection of connecting you to the Internet securely. Pe
 
 ### Common VPN features
 - **Stop password and data theft** by securing your line on public WiFi (cafe, airport, hospital, etc). Public WiFi is the feeding ground for hackers-in-training, it is that easy to spy on you there. Use VPN. Stay safe!
-- **Privacy from ISP**. No more snooping by your internet provider. This includes your mobile operator too! They see all your browsing and may record your browsing history. Yikes!
+- **Privacy from others on local network**. You may not be on a public WiFi, but a guest in AirBnb, hotel or visiting some company and are connecting to their network. Stay safe!
+- **Privacy from ISP**. No more snooping by your internet provider. This includes your mobile operator too! They see all your browsing and may record your browsing history and sell it. Yikes!
+
 
 ### Unique Privacy features
 - **You run VPN in the privacy of your own CloudPal**, and the only thing better than that is to run a dedicated machine on a reliable broadband network, but how many of us can be bothered doing that?
