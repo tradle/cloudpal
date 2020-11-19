@@ -103,7 +103,7 @@ How is CloudPal different?
 |Function|CloudPal|Typical VPS|
 | -- | -- | -- |
 |**Target audience**| Normal people | Techies |
-|**Isolation**| Townhouse. You have your own roof - it is a full Virtual Machine (VM), not a leaky container, like some VPSes are. | Apartment, with many shared communal services |
+|**Isolation**| Townhouse-style. You have your own roof - it is a full Virtual Machine (VM), not a leaky container, like some VPSes are. | Apartment-style, expect the need to talk to superintedant |
 |**Privacy**| Service provider (Data Center) does not know who you are. You buy a ticket from Tradle and pay with it to the Data Center | VPS provider got your name and credit card |
 |**Checks and balances**| We, your product developer are not your service provider. This gives you proivacy and leverage over both of us. Move any time to another Data Center for whatever reason, no need to lose remaining monthly payment and setup a new account. | You are at the mercy of your VPS provider |
 |**Moving target for hackers**| We make it hard for hackers, like skeet shooting, no like shooting stars. CloudPal activates and de-activates as you need it, this is how we keep our prices low, and make it harder for hackers to hit you. | Sitting ducks |
