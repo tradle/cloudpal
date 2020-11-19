@@ -100,12 +100,12 @@ A number of open source offerings exist for this. Take a look at Tinc, Wormhole,
 VPS is what existed even before Cloud, they are being sold by Linode, DigitalOcean, OVH and a dozens of others
 How is CloudPal different?
 
-- **CloudPal is for normal people**, not techies
-- **Higher security**, It is like a townhouse vs apartment, with less shared communal services. You have your own roof - it is a full Virtual Machine (VM), not a leaky container, like some VPSes are.
-- **Separation** Service provider (Data Center) does not know who you are**. You buy a ticket from Tradle and pay with it to the Data Center. This protects your privacy. 
-- **Checks and balances** We, your product developer are not your service provider. This gives you proivacy and leverage over both of us. Move any time to another Data Center for whatever reason, no need to lose remaining monthly payment and setup a new account. 
-- **Choice of the country where CloudPal runs**. Trust your local provider, or don't.
-- **Moving target for hackers**. CloudPal activates and de-activates as you need it, this is how we keep our prices low, and make it harder for hackers to hit you. Compare how hard is skeet shooting and shooting the sitting ducks.
-- **Open Source**, yes, we do not know any other provider that is Open Source (tell us if we missed another brave soul). Does it make it hard for us to make money? You bet, but we figure this is the only way you can trust us.
-- **Apps, lost of apps**, Well, at least soon. So far we have Private network for all your devices (which includes VPN), document Vault. 
-- **Roadmap to make it even safer**. Encrypted memory upcoming. This is your protection from the landlord, the Data Center.
+|Function|CloudPal|Typical VPS|
+|**Target audience**| Normal people | Techies |
+|**Isolation**| Townhouse. You have your own roof - it is a full Virtual Machine (VM), not a leaky container, like some VPSes are. | Apartment, with many shared communal services |
+|**Privacy**| Service provider (Data Center) does not know who you are. You buy a ticket from Tradle and pay with it to the Data Center | VPS provider got your name and credit card |
+|**Checks and balances**| We, your product developer are not your service provider. This gives you proivacy and leverage over both of us. Move any time to another Data Center for whatever reason, no need to lose remaining monthly payment and setup a new account. | You are at the mercy of your VPS provider |
+|**Moving target for hackers**| We make it hard for hackers, like skeet shooting, no like shooting stars. CloudPal activates and de-activates as you need it, this is how we keep our prices low, and make it harder for hackers to hit you. | Sitting ducks |
+|**Open Source**| Yes, we do not know any other provider that is Open Source (tell us if we missed another brave soul). Does it make it hard for us to make money? You bet, but we figure this is the only way you can trust us. | Any hidden surveilance cameras in your appartment? Who knows. No way to verify their claims. They likely use a lot of open source sofwtare, and a lot of prorietary... | 
+|**Apps, lost of consumer apps**| Consumer apps. So far we have a Private network for all your devices (which includes VPN), document Vault. | Apps for techies | 
+|**Roadmap to make it even safer** | Encrypted memory upcoming. This is even more protection from the landlord, the Data Center.| |
