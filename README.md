@@ -101,6 +101,7 @@ VPS is what existed even before Cloud, they are being sold by Linode, DigitalOce
 How is CloudPal different?
 
 |Function|CloudPal|Typical VPS|
+| -- | -- | -- |
 |**Target audience**| Normal people | Techies |
 |**Isolation**| Townhouse. You have your own roof - it is a full Virtual Machine (VM), not a leaky container, like some VPSes are. | Apartment, with many shared communal services |
 |**Privacy**| Service provider (Data Center) does not know who you are. You buy a ticket from Tradle and pay with it to the Data Center | VPS provider got your name and credit card |
