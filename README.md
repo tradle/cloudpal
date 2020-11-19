@@ -109,4 +109,4 @@ How is CloudPal different?
 |**Moving target for hackers**| We make it hard for hackers, like skeet shooting, no like shooting stars. CloudPal activates and de-activates as you need it, this is how we keep our prices low, and make it harder for hackers to hit you. | Sitting ducks |
 |**Open Source**| Yes, we do not know any other provider that is Open Source (tell us if we missed another brave soul). Does it make it hard for us to make money? You bet, but we figure this is the only way you can trust us. | Any hidden surveilance cameras in your appartment? Who knows. No way to verify their claims. They likely also use open source software, and also the prorietary one ... | 
 |**Apps**| Consumer apps. So far we have a Private network for all your devices (which includes VPN), document Vault. | Apps for techies | 
-|**Roadmap to make it even safer** | Encrypted memory upcoming. This is even more protection from the landlord, the Data Center.| |
+|**Roadmap to make it even safer** | Encrypted memory upcoming. This will give you even more protection from the landlord, the Data Center.| |
