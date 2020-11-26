@@ -15,10 +15,10 @@ You are familiar with the local network today, sitting behind your home router. 
 How will the devices find each other without a central server? How will we add new devices and remove them when they get stolen or replaced? Apparently the P2P tech has recently evolved to help us achieve just that. Keep reading.
 
 ### VPN, securing your privacy
-Each device on your private network will still talk to the Internet directly, and are more identifiable. To give you more privacy, we can route all traffic through your CloudPC. Then CloudPC becomes your **Personal VPN**, a VPN with a number of advantages and no downsides.
+Without VPN, each device on your private network will still talk to the Internet directly. With VPN all traffic to the Internet from your devices is routed through your CloudPC, and appears to the internet as if they all are sitting behind one router.  CloudPC becomes your **Personal VPN**. Without this, your devices are more easily identifiable, as coming from home, work, cafe, co-working place, hotel, or from a particular cell phone network.
 
-## Personal vs traditional VPN
-Traditional VPN offers protection of connecting you to the Internet securely. Personal VPN does that better and paves the road for Cloud apps, which VPNs do not offer today. 
+## Personal vs traditional shared VPN
+Traditional VPN offers protection of connecting you to the Internet securely. Yet, traditional VPN becomes your ISP, and gains knowledge of your Internet activity. This is so bad that [some experts recommend not to use VPNs at all](https://gist.github.com/joepie91/5a9909939e6ce7d09e29). Personal VPN, implemented with care, fixes does a much better job and protecting your privacy, and paves the road for Cloud apps, which VPNs do not offer today. 
 
 | Function | Traditional (shared) VPN | Personal VPN | Notes | 
 | --- | --- | --- | --- |
