@@ -1,7 +1,8 @@
 This is the primer on CloudPal
 
-CloudPal as one of the personal devices in a person's multi-device setup, which includes mobiles, tablets, laptops, desktops, home NAS and home automation, wearables like watches, etc. 
-Without a personal Cloud component, which is consumer-friendly, always-on and zero-maintenance, we will always be dependent on Big Tech in the middle. 
+CloudPal is one of the personal devices in the person's multi-device world that includes mobiles, tablets, laptops, desktops, home storage (NAS), home automation, wearables like watches, fitness, sleep, and health tracker.
+
+Without a personal Cloud component, which is consumer-friendly, always-on and zero-maintenance, we will always be dependent on and beholden to the Big Tech in the middle. 
 
 ## Background
 _The world seems to swing back and forth between personal and shared computing models. We are about to enter into another cycle of Personal computing, CloudPal._ 
