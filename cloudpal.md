@@ -5,13 +5,13 @@ CloudPal is one of the personal devices in the person's multi-device world that 
 Without a personal Cloud component, which is consumer-friendly, always-on and zero-maintenance, we will always be dependent on and beholden to the Big Tech in the middle. 
 
 ## Background
-_The world seems to swing back and forth between personal and shared computing models. We are about to enter into another cycle of Personal computing, CloudPal._ 
+_The world seems to swing back and forth between personal and shared computing models. We are about to enter into another cycle of Personal computing._ 
 
-1. **What makes this possible**. Linux evolved in the last 5-10 years to let us create a beautful and powerful Cloud, dedicated to a personal use. We believe this is the next evolutionary cycle of Personal Computing, after PCs and Mobiles.
+1. **What makes this possible**. Linux evolved in the last 5-10 years, opening proprietary solutions used by Cloud vendors so that we can now create a beautful, powerful and open Cloud, dedicated to the personal use. 
 
-1. **Cloud commoditization**. Despite the dominance of Megascaler / Hyperscalers, the innovation on the Edge did not stop, with Cloudflare and Fastly.com adding serverless compute, Virtual Private Server (VPS) providers like Linode, Digital Ocean, Vultr etc. adding AWS S3-compatible Object Storage and other services, popularized by AWS. 
+1. **Cloud commoditization**. Despite the dominance of Megascalers / Hyperscalers, the innovation on the Edge did not stop. CDN vendors like Cloudflare, Fastly abd Fly.io have added serverless compute. VPS providers like Linode, Digital Ocean, Vultr have added AWS S3-compatible Object Storage.
 
-1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a CloudPal for consumers. Although VPS business has existed since the 1990s, its target audience has always been the technical crowd. 
+1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud directly solf to consumers. Although VPS business has existed since the 1990s, its target audience has always been the technical crowd. 
 
 ## Goals
 1. We all now understand that we became not just the beneficiaries of the Internet, but the product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give our all private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps whereever we go and whatever we. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
