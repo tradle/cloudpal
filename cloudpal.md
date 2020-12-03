@@ -67,6 +67,6 @@ How is CloudPal different?
 
 
 ## Community - call for action
-Hope this gives any interested Open Source developers the context to understand what role they can play in this project and what expertise you could bring to this, should you be interested in collaboration.
+Hope this gives an Open Source developer the context to understand what role you can play in this project and what expertise you could bring to this, should you be interested in a collaboration with us.
 
-Please reach out to us.
+Please reach out to us at info at tradle dot io.
