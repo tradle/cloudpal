@@ -11,7 +11,7 @@ _The world seems to swing back and forth between personal and shared computing m
 
 1. **Cloud commoditization**. Despite the dominance of Megascalers / Hyperscalers, the innovation on the Edge did not stop. CDN vendors like Cloudflare, Fastly abd Fly.io have added serverless compute. VPS providers like Linode, Digital Ocean, Vultr have added AWS S3-compatible Object Storage.
 
-1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud directly solf to consumers. Although VPS business has existed since the 1990s, its target audience has always been the technical crowd. 
+1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud,  sold directly to consumers. Although VPS business has existed since the 1990s, its target audience has always been the technical crowd. 
 
 ## Goals
 1. We all now understand that we became not just the beneficiaries of the Internet, but the product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give our all private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps whereever we go and whatever we. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
