@@ -13,10 +13,9 @@ because Cloud does not have today a Personal Computing segment yet (VPS is not a
 ## Technical design
 Key CloudPal OS components are Software-Defined Network, Data and Compute:
 
-###Network
-
+### Network
 [Single tenant Network](https://github.com/tradle/simplecloud) is our first commercial product, 
-a personal VPN with a private overlay network for all of the person's devices. 
+in a form of a personal VPN with a private overlay network for all of the person's devices. 
 Such network is the prerequisite for P2P apps down the line, and a good market entry as VPN is becoming a mass market product, but all VPNs today are SaaS products (shared VPN) and therefore can't ever be trusted. 
 
 ### Data
