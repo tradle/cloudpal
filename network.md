@@ -1,4 +1,4 @@
-[CloudPal](https://github.com/tradle/simplecloud/blob/main/cloudpal.md) comes with 3 major components: personal and private Network (described here), personal Compute and [personal Data](https://github.com/tradle/why-hypercore). 
+CloudPal comes with 3 major components: personal and private Network (described here), personal Compute and [personal Data](https://github.com/tradle/why-hypercore). 
 
 ## Your Network
 Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact, most of our apps today go via some form of a central player, putting ourselves under non-stop  surveillance. 
