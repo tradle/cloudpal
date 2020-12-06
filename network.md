@@ -3,7 +3,7 @@ CloudPal comes with 3 major components: personal and private Network (described 
 ## Your Network
 Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact, most of our apps today go via some form of a central player, putting ourselves under non-stop  surveillance. 
 
-Peer-to-Peer (P2P) apps attempt to restore the norm, but today they lack the convenience of Cloud-based apps. The judo move is not to fight Cloud, but to leverage Cloud's strength for P2P.
+Peer-to-Peer (P2P) decentralized apps attempt to restore the norm, but today they lack the convenience of Cloud-based apps. The judo move is not to fight Cloud, but to leverage Cloud's strength for P2P.
 
 Enter CloudPal.
 
