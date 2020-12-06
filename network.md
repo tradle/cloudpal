@@ -1,12 +1,13 @@
-[CloudPal](https://github.com/tradle/simplecloud/blob/main/cloudpal.md) comes with 3 major components: personal and private Network, Compute and Data. Here we focus on the Network, See separate articles on [personal Data](https://github.com/tradle/why-hypercore) and, later on, on personal Compute.
+[CloudPal](https://github.com/tradle/simplecloud/blob/main/cloudpal.md) comes with 3 major components: personal and private Network (described here), personal Compute and [personal Data](https://github.com/tradle/why-hypercore). 
 
 ## Your Network
-Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact most of our apps today go via some form of a central player. We pay the price for this convenience with lost privacy as we put ourselves under non-stop corporate surveillance. 
+Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact, most of our apps today go via some form of a central player, putting ourselves under non-stop  surveillance. 
 
-Peer-to-Peer (P2P) apps today lack the convenience of cloud-based apps. The judo move it to leverage Cloud's strength for P2P.
+Peer-to-Peer (P2P) apps attempt to restore the norm, but today they lack the convenience of Cloud-based apps. The judo move is not to fight Cloud, but to leverage Cloud's strength for P2P.
+
 Enter CloudPal.
 
-CloudPal sits on a fast and reliable network and is always on, and thus it can help connect your many devices and apps. CloudPal is your device in the cloud, it belongs to you, controlled by you, and defends your data from intrusion on your behalf.
+CloudPal sits on a fast and reliable network and is always on, and in this capcity it can help connect your personal devices and apps. Unlike iCloud, gmail and similar services, CloudPal is your device in the cloud, it belongs to you, controlled by you, and defends your data from intrusion on your behalf.
 
 ### A private network that you operate
 You are familiar with the local network today, sitting behind your home router. But when you travel, when you go to work, when you want to add other machines, at a different location, or even your car, how do you do that? CloudPal creates an encrypted distributed network so that devices at your different locations, on different cell / WiFi networks, appear to be on one local network and can communicate without Big Tech at the center. This capability is sometimes referred to as an [overlay or a mesh network](https://undisclosed.blog/mesh-vpn/).
