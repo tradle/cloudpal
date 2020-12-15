@@ -1,7 +1,7 @@
 CloudPal comes with 3 major components: personal and private Network (described here), personal Compute and [personal Data](https://github.com/tradle/why-hypercore). 
 
 ## Your Network
-Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact, most of our apps today go via some form of a central player, putting ourselves under non-stop  surveillance. 
+Today we rely on Google and other Big Tech companies to connect our devices in order to sync photos, email, and documents. In fact, most of our apps today go via some form of a central player, putting ourselves under non-stop  surveillance. Reliance on a central player is a disaster waiting to happen. Seeing all Google services down for nearly an hour should wake everyone up to this constant danger.
 
 Peer-to-Peer (P2P) decentralized apps attempt to restore the lost sanity, but they lack the convenience of Cloud-based apps. The judo move here is not to fight the Cloud, but to leverage Cloud's strength for P2P.
 
