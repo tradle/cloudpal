@@ -68,7 +68,7 @@ _The world seems to swing back and forth between personal and shared computing m
 1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud,  sold directly to consumers. Although VPS business has existed since the 1990s, its target audience has always been the technical crowd. 
 
 ## CloudPal vs SOLID
-[SOLID (Social Linked Data)](https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)) is a web decentralization project led by Tim Berners-Lee, the inventor of the World Wide Web, developed collaboratively at the Massachusetts Institute of Technology (MIT).
+[SOLID (Social Linked Data)](https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)) is a web decentralization project led by Tim Berners-Lee, the inventor of the World Wide Web, developed collaboratively at the Massachusetts Institute of Technology (MIT). Like SOLID, Tradle aims for web decentralization. Unlike SOLID, Tradle creates a complete new Cloud stack, designed for personal use.
 
 |Function|CloudPal|SOLID|
 | -- | -- | -- |
