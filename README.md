@@ -91,9 +91,8 @@ _The world seems to swing back and forth between personal and shared computing m
 |**Compute**| Yes | No |
 |**Virtual networking**| Yes | No |
 |**App Store**| Yes | No |
+|**Universal a  front-end**| Yes | No |
 |**Digital identity**| Yes | No |
-|**Universal front-end in the form of Transactional messaging**| Yes | No |
-
 
 ## Community - call for action
 Hope this gives an Open Source developer the context to understand what role you can play in this project and what expertise you could bring to this, should you be interested in a collaboration with us.
