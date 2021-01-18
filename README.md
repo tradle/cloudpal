@@ -67,6 +67,33 @@ _The world seems to swing back and forth between personal and shared computing m
 
 1. **Get ready for VPS++** There is one area though that neither Hyperscalers nor others are offering today, a Cloud,  sold directly to consumers. Although VPS business has existed since the 1990s, its target audience has always been the technical crowd. 
 
+## CloudPal vs SOLID
+[SOLID (Social Linked Data)](https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)) is a web decentralization project led by Tim Berners-Lee, the inventor of the World Wide Web, developed collaboratively at the Massachusetts Institute of Technology (MIT).
+
+|Function|CloudPal|SOLID|
+| -- | -- | -- |
+|**Target audience**| Normal people | Techies |
+|**Decentralized**| Yes | Yes |
+|**Open source**| Yes | No |
+|**Data self-sovereignty**| Yes | Yes |
+|**Data interlinking**| Yes | Yes |
+|**Language for Semantics**| Yes | Yes? |
+|**Data streaming**| Yes | No |
+|**Bandwidth sharing**| Yes | No |
+|**Messaging**| Yes | No |
+|**File Systen**| Yes | No |
+|**Database**| Yes | No |
+|**Object store base**| Yes | Yes |
+|**Data Integrity**| Yes | No? |
+|**Blockchain audit**| Yes | No |
+|**AI**| Yes | No? |
+|**Local first offline first**| Yes | No |
+|**Compute**| Yes | No |
+|**Virtual networking**| Yes | No |
+|**App Store**| Yes | No |
+|**Digital identity**| Yes | No |
+|**Universal front-end in the form of Transactional messaging**| Yes | No |
+
 
 ## Community - call for action
 Hope this gives an Open Source developer the context to understand what role you can play in this project and what expertise you could bring to this, should you be interested in a collaboration with us.
