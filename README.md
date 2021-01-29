@@ -1,6 +1,6 @@
 This is the primer on CloudPal.
 
-CloudPal is one of the personal devices in person's multi-device world that includes mobiles, tablets, laptops, desktops, home storage (NAS), home automation, wearables (watches, fitness trackers), and the rapidly evolving health measuring devices for weight, blood pressure, skin temperature, oxigenation, EKG, sleep, etc.
+CloudPal is one of the personal devices in person's multi-device world that includes mobiles, tablets, laptops, desktops, home storage (NAS), home automation, wearables (watches, fitness trackers), and the rapidly evolving health measuring devices for weight, blood pressure, skin temperature, oxygenation, EKG, sleep, etc.
 
 Without a personal Cloud component we will always be dependent on and beholden to the Big Tech in the middle. This personal Cloud device needs to be consumer-friendly, always-on and require zero-maintenance. 
 
