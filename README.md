@@ -6,6 +6,8 @@ Without a personal Cloud component we will always be dependent on and beholden t
 
 We call it CloudPal. CloudPal is your assistant in the Cloud, trully personal, no compromises, no backdoors.
 
+For techbically mindedd, CloudPal is a consumerized VPS. Another was to view CloudPal is - Hyperscalers like AWS sell cloud to businesses, CloudPal sells it to consumers.
+
 ## Goals
 1. We are not app owners, we are a product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give all our private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps wherever we go and whatever we do. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
 CloudPal will restore the Internet to the prior conditions when app companies did not own our data and did not know how we chose to use their apps.
