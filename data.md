@@ -41,7 +41,7 @@ Eliminates the dependency on Big Tech, all the data is stored both on your devic
         * sparse data download, fast-forward, rewind
         * Accelerated streaming via bittorrent-like bandwidth sharing
     * Sort-merge multiple streams
-    * Event-based data consumption (Change Data Capture - CDC) that is used for immediate processing, for processing Big Data, or for instant UI updates
+    * Event-based data consumption. Another term used is Change Data Capture (CDC), which mostly applies to capturing changes in external data sources. Event based processing is used for processing Big Data, which are not possible or costly to load or copy,  to gain instant insights into the data, to update aggregations (counts, sums, etc.), to update AI models. It is also very useful for instant UI updates without requiring a person to do a page refresh.
     * User-defined functions.  Scripting to process data with in-engine JavaScript functions to perform custom calculations.
         * Scale scripting via multiple parallel micro-services
     * Time-travel. Easily access historical data or roll back without manual backups
