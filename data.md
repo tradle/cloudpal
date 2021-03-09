@@ -41,7 +41,7 @@ Eliminates the dependency on Big Tech, all the data is stored both on your devic
         * sparse data download, fast-forward, rewind
         * Accelerated streaming via bittorrent-like bandwidth sharing
     * Sort-merge multiple streams
-    * Event-based data consumption, e.g. for immediate processing or for UI updates
+    * Event-based data consumption (Change Data Capture - CDC) that is used for immediate processing, for processing Big Data, or for instant UI updates
     * User-defined functions.  Scripting to process data with in-engine JavaScript functions to perform custom calculations.
         * Scale scripting via multiple parallel micro-services
     * Time-travel. Easily access historical data or roll back without manual backups
