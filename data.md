@@ -40,7 +40,8 @@ Eliminates the dependency on Big Tech, all the data is stored both on your devic
         * fast sequential loads
         * sparse data download, fast-forward, rewind
         * Accelerated streaming via bittorrent-like bandwidth sharing
-    * Event-based data consumption, e.g. for processing or for UI updates
+    * Sort-merge multiple streams
+    * Event-based data consumption, e.g. for immediate processing or for UI updates
     * User-defined functions.  Scripting to process data with in-engine JavaScript functions to perform custom calculations.
         * Scale scripting via multiple parallel micro-services
     * Time-travel. Easily access historical data or roll back without manual backups
