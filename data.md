@@ -1,26 +1,30 @@
 # Single-tenant Data for AI / ML and apps
-Eliminates the dependency on Big Tech, all the data is stored both on your devices and in your personal cloud. Full mobility between data centers, to avoid a lock-in into one provider. Zero surveilance, full privacy as only you can look at your own data, and full control over your own data (no deplatforming possible).
+Eliminates the dependency on Big Tech, all the data is stored both on your devices and in your personal cloud. Full replication and mobility between data centers, to avoid the risk of de-platforming (being blocked by a provider). Zero surveilance, full privacy as only you can look at your own data, and full control over your own data, as you need no permissions from anyone to use your data.
 
 
 ## Cost-effective data storage  
-    * storage for source datasets
-    * intermediate storage, e.g. enhanced or synthetic datasets, or temporary datasets 
-    * storage for trained models (zero-copy use via streaming)
-    * common data sets (e.g. list of medicines) 
+    * Storage for source datasets, like fitness and health, finance, car, home, etc.
+    * Intermediate storage, e.g. enhanced or synthetic datasets, or temporary datasets
+    * Storage for trained AI models
+    * Storage and streaming access to common data sets (e.g. list of medical conditions, medicines, etc.). Streaming avoids the need to copy large datasets.
 
 ## Less time and effort administrating 
-    * Data explorer
-    * Search engine 
+    * Common semantics for data
+    * Data explorer that uses semantics to show the data on screens
+    * Search engine that uses semantics to index data for google-like searches
 
 ## Commercial model, incentives and payments
-    * dataset providers
+    * Dataset providers
     * AI models providers
-    * data centers
+    * Semantics providers
+    * Data centers as providers of underlying compute resources
 
 ## AI / ML (upcoming)
-    * federated coordination
-    * decentralized federation
-    * integration with leading ML tools
+    * Pre-configued environment for training and inference in different systems (MXNET, Tensorflow, etc.)
+    * Federated coordination
+    * Decentralized federation, improving on Federated model by removing central coordination for a final AI model
+    * Integration with leading ML tools
+    * Oprimization path to the efficient inference-only models
 
 ## Database
     * Multi-master leaderless database (tolerant to network interruptions)
