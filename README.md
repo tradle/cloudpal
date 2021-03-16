@@ -1,6 +1,7 @@
 # This is the primer on CloudPal
 
-Tracking is evil, and with CloudPal we are changing this.
+Tracking is evil, everywhere we go on the Internet, every app we use, everything we do, we are being tracked.
+With CloudPal we are changing this.
 
 CloudPal is where your data is processed by *their* apps, providing you the utility and insights, but without letting app giving app developer access to your data, a total opposite of Gmail, Facebook, Quickbooks, etc.
 
