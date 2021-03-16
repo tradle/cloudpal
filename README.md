@@ -1,12 +1,18 @@
-This is the primer on CloudPal.
+# This is the primer on CloudPal
 
-CloudPal is one of the personal devices in person's multi-device world that includes mobiles, tablets, laptops, desktops, home storage (NAS), home automation, wearables (watches, fitness trackers), and the rapidly evolving health measuring devices for weight, blood pressure, skin temperature, oxygenation, EKG, sleep, etc.
+Tracking is evil, and with CloudPal we are changing this.
 
-Without a personal Cloud component we will always be dependent on and beholden to the Big Tech in the middle. This personal Cloud device needs to be consumer-friendly, always-on and require zero-maintenance. 
+CloudPal is where your data is processed by *their* apps, providing you the utility and insights, but without letting app giving app developer access to your data, a total opposite of Gmail, Facebook, Quickbooks, etc.
 
-We call it CloudPal. CloudPal is your assistant in the Cloud, trully personal, no compromises, no backdoors.
+We live in a multi-device world which is rapidly expanding. The computing devices we use are mobiles, tablets, laptops / desktops, wearables (watches, fitness trackers), AirPods and other earphones, home storage (NAS), smart TVs, home automation, and the rapidly evolving health measuring devices for weight, blood pressure, skin temperature, oxygenation, EKG, sleep, etc.
 
-CloudPal is not another cloud storage, like Dropbox, CloudPal sells it to consumers what AWS sells to businesses (for techbically minded, CloudPal is a consumerized VPS). 
+We are missing one personal device to re-own all the data we produce and stop the surveilance we agreed to today. That device is the personal Cloud device. We called it CloudPal. CloudPal syncs all your devices, stores all your data, and runs cloud apps on your data, all under your own control and no-one else's.
+
+Without a such personal Cloud device we will always be dependent on and beholden to the Big Tech in the middle. This personal Cloud device needs to be consumer-friendly, always-on and require zero-maintenance. 
+
+CloudPal is your assistant in the Cloud, trully personal, no compromises, no backdoors.
+
+CloudPal is not another cloud storage, like Dropbox, CloudPal gives consumers what AWS gives to businesses, elastic on-demand compute, storage and networking.
 
 ## Goals
 1. We are not app owners, we are a product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give all our private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps wherever we go and whatever we do. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
