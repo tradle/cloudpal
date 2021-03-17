@@ -13,7 +13,7 @@ The alternative design include a number of components that protect your security
 - CloudPal, which makes it possible for your data to be 100% private 
 - CloudPal Voice, which like CloudPal itself is an open source system, and thus allows any security researcher verify its operations
 - CloudPal firewall that creates the network enclosure so that no data can leave the CloudPal
-- CloudPal Voice apps, developed by 3rd parties are executed in a secure virtual machine, that they can't escape
+- CloudPal Voice apps (equivalent to Alexa Skills) are developed by 3rd parties and thus require isolation. They are executed in a secure virtual machine, that they can't escape
 - A secure way to open a door in the firewall for the Voce app to communicate to a specific site on the internet, e.g. to a hotel system to order room service. This door has security measures:
     - Connecttion to 3rd party site (e.g. Hotel) is encrypted
     - The 3rd party site must be authenticated
