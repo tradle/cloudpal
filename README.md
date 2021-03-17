@@ -1,23 +1,21 @@
 # This is the primer on CloudPal
 
-Tracking is evil, everywhere we go on the Internet, every app we use, everything we do, we are being tracked.
-With CloudPal we are changing this.
+Tracking is evil, everywhere we go on the Internet, every app we use, everything we do, we are being tracked. Today we are not app users, we are a product. We are monetized by Facebook, Google, Microsoft, Amazon and others. In 30% of American homes Amazon Alexa is listening to their living room and bedroom conversations, Amazon Ring is recording who comes to their doors and shares with the police. Google Gmail reads all private emails and can read our most precious ideas on Drive. We are being constantly watched and tracked by Tech companies wherever we go and whatever we do. Governments come to those companies a grab data without our consent, and often without warrants. It is an insane world, we walked freely into in return for many conveniences. 
 
-CloudPal is where your data is processed by *their* apps, providing you the utility and insights, but without letting app giving app developer access to your data, a total opposite of Gmail, Facebook, Quickbooks, etc.
+This is about to change, meet your CloudPal.
 
-We live in a multi-device world which is rapidly expanding. The computing devices we use are mobiles, tablets, laptops / desktops, wearables (watches, fitness trackers), AirPods and other earphones, home storage (NAS), smart TVs, home automation, and the rapidly evolving health measuring devices for weight, blood pressure, skin temperature, oxygenation, EKG, sleep, etc.
+CloudPal is where where apps provide you the utility and insights, but where apps DO NOT can't take the data to company that made them, a total opposite of what we have with Gmail, Facebook, Quickbooks, and all other apps today. CloudPal takes us bank to where data on my computer were mine and it was incievable for the app to exfiltrate it.
 
-We are missing one personal device to re-own all the data we produce and stop the surveilance we agreed to today. That device is the personal Cloud device. We called it CloudPal. CloudPal syncs all your devices, stores all your data, and runs cloud apps on your data, all under your own control and no-one else's.
+We live in a multi-device world which is rapidly expanding. The computing devices we use today are mobiles, tablets, laptops / desktops, smart speakers, watches, fitness trackers, wireless earphones, smart TVs, home automation, home storage (NAS), cars, and a body measurement devices for weight, blood pressure, skin temperature, blood oxygenation, heart function, sleep, etc.
 
-Without a such personal Cloud device we will always be dependent on and beholden to the Big Tech in the middle. This personal Cloud device needs to be consumer-friendly, always-on and require zero-maintenance. 
+Now there is a way to stop it. What we are missing is one device. That device is the personal Cloud device, a CloudPal. CloudPal connects all your other devices, stores all your data, and runs cloud apps on your data, and does that without giving out a yota of your personal data. 
 
+CloudPal is consumer-friendly, always-on and needs zero maintenance. 
 CloudPal is your assistant in the Cloud, trully personal, no compromises, no backdoors.
-
-CloudPal is not another cloud storage, like Dropbox, CloudPal gives consumers what AWS gives to businesses, elastic on-demand compute, storage and networking.
+CloudPal is not another cloud storage, like Dropbox, CloudPal gives consumers what Cloud today gives to businesses, an elastic on-demand compute, storage and networking, totally under their own control.
 
 ## Goals
-1. We are not app owners, we are a product monetized by Facebook, Google and other SaaS companies (SaaS stands for Software as a Service). We give all our private emails to Gmail, our most precious ideas and private data to Google Drive, we are being watched and tracked by SaaS apps wherever we go and whatever we do. Companies that make those SaaS apps are listening to our bedroom conversations, recording inside our homes, etc. etc. It is insane but there is no other way to get the conveniences we are all used to. This is about to change.
-CloudPal will restore the Internet to the prior conditions when app companies did not own our data and did not know how we chose to use their apps.
+1. CloudPal restores the Internet to the prior conditions when app companies did not have a way to see our data.
 
 2. We live in an increasingly multi-device world, with mobiles, tablets, PCs, vehicle and home automation computing devices coming online at a rapid pace. We need a personal system to manage those devices and help them exchange data securely. Consider CloudPal as one of such devices, a linchpin in such a system, helping connect, sync, coordinate, recover and transition all other devices. CloudPal is the most reliable of our devices, the most adaptive to our network, storage and processing needs. CloudPal is also the one that evolves the fastest of them all.
 
