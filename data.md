@@ -73,7 +73,7 @@ Eliminates the dependency on Big Tech, all the data is stored both on your devic
     * Data accounting for billing
 
 ## Data environment for Voice Assistant
-    * Messaging and data store for [CloudPal Voice](https://github.com/tradle/cloudpal/blob/main/voiceAssistant.md).
-    * Store for Voice Apps executables
+    - Messaging and data store for [CloudPal Voice](https://github.com/tradle/cloudpal/blob/main/voiceAssistant.md)
+    - Store for Voice Apps executables
 
 
