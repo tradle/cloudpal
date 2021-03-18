@@ -1,5 +1,7 @@
 # Voice Assistant and Privacy
 
+Voice Assistants have grown into a [big market in the last 10 years](https://www.t4.ai/industry/voice-assistant-market-share) since Apple introduced Siri. Amazon Alexa is a leader today with Google, Apple and Microsoft sharing the rest of the market. 
+
 Voice Assistants are an especially privacy-sensitive piece of technology. They are alsways on, listening to the audio, 
 waiting for the wake word (Hey Siri). They are like the search engine, they know all our questions and what results were useful for us.
 They are given access to many pieces of information about us and our life so that they can be trully of help, like our contacts, 
