@@ -2,18 +2,14 @@
 
 Voice Assistants have grown into a [big market in the last 10 years](https://www.t4.ai/industry/voice-assistant-market-share) since Apple introduced Siri. Amazon Alexa is a leader today with Google, Apple and Microsoft sharing the rest of the market. 
 
-Voice Assistants are an especially privacy-sensitive piece of technology. They are alsways on, listening to the audio, 
-waiting for the wake word (Hey Siri). They are like the search engine, they know all our questions and what results were useful for us.
-They are given access to many pieces of information about us and our life so that they can be trully of help, like our contacts, 
-calendar, location, etc. 
+Voice Assistants are an especially privacy-sensitive piece of technology. They are always on, listening for the wake word (Hey Siri, Ok Google, etc.). They are like the search engine, they know all our questions and what results were useful for us.
+We give them access to many pieces of private information, like our contacts, calendar, location, and practically everything else, as this is the only way they can be trully of help to us.
 
-We can't have all this information be known to anyone, yet, all Voice Assitant vendors do have that access, 
-and even share that data with their contractors.
+As most applications on the market today, Voice Assitants ship our private information to their systems, make it available to their staff, and even share with their contractors.
 
-The alternative design include a number of components that protect your security like no other Voice Assistant on the market:
+CloudPal is a way for you to run Voice Assistant privately. Its design is based on all processing of your data happing on the cloiud device that you own, and no one else has access to. In addition it includes a number of components that protect your security like no other Voice Assistant on the market.
 
-- CloudPal, which makes it possible for your data to be 100% private 
-- CloudPal Voice, which like CloudPal itself is an open source system, and thus allows any security researcher verify its operations
+- CloudPal Voice, which like CloudPal itself, is an open source system, and thus allows any security researcher verify its operations
 - CloudPal firewall that creates the network enclosure so that no data can leave the CloudPal
 - CloudPal Voice apps (equivalent to Alexa Skills) are developed by 3rd parties and thus require isolation. They are executed in a secure virtual machine, that they can't escape
 - A secure way to open a door in the firewall for the Voce app to communicate to a specific site on the internet, e.g. to a hotel system to order room service. This door has security measures:
