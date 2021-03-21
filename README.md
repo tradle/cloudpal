@@ -100,6 +100,7 @@ _The world seems to swing back and forth between personal and shared computing m
 |**App Store**| Yes | No |
 |**Universal a  front-end**| Yes | No |
 |**Digital identity**| Yes | No |
+|**Native app on mobile and desktops in addition to the Web app | Yes, [see the reasoning](https://github.com/tradle/cloudpal/blob/main/why-native-app.md) | No |
 
 ## Community - call for action
 Hope this gives an Open Source developer the context to understand what role you can play in this project and what expertise you could bring to this, should you be interested in a collaboration with us.
