@@ -14,7 +14,7 @@ They make billions on app stores and jealously guard this revenue. Therefore the
 ## P2P
 CloudPal has a P2P design at its core, and CloudPal peer is just one of the peers in a P2P network of your personal devices. 
 These devices are rapidly expanding, including smartphones, watches and fitness trackers, blutooth devices like earphones, 
-and health and wellness devices like scales, sleep monitors, etc., home automation (smart rings, smart locks, thermostats, lights, surveillance devices like burglar alarms, nanny cams, smart TVs, etc.)
+and health and wellness devices like scales, sleep monitors, etc., home automation (smart rings, smart locks, smart TVs, thermostats, lights, solar roof, powerwalls, Sattelite Internet, internet routers, and the surveillance devices like burglar alarms, nanny cams, video doorbells), smart cars.
 
 CloudPal's mission is to connect all those devices without a central player, like Google in teh middle.
 Unfortunately P2P will always be second rate in Web browsers due to the lack of storage, connectivity (no UDP and no TCP), secure keys storage, etc. 
