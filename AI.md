@@ -65,10 +65,10 @@ Liveness detection is used in combination with an app that only uses a live came
 A lot of AI requires a GPU, which is a more limited and expensive resource. 
 Forunately inference for face matching can work reasonably well on the CPU, and even on mobiles. Liveness detection does not yet work on mobile.
 
-## Training and testing AI
+## Training AI and accuracy testing
 Fortunately for face matching and recognition tasks there are pre-trained models, released to open source:
 - 360K people 1.5 images [Glint360K](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
 
 Testing can be done on the forllowing test datasets:
-- LFW 
+- [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/index.html)
 
