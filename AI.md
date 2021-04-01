@@ -1,44 +1,59 @@
 # Faces 
+_For the purposes of this and other articles, we use AI team as a deep learning AI. 
+We use ML term as for statistical and other traditional math methods for visual, audio and other signal processing_
+
 ## Face matching pipeline 
 Face matching is an ability to recognize faces and identify them.
 It can be used to match a photo ID to a selfie. 
-This is so colled 1:1 matching or sometimes called face verification. 
+This is so called 1:1 matching or sometimes called face verification. 
 
 ## Face recognition 
-This is a 1:N matching which is used to recognize a person's face to their face in a photo or a video. 
+This is a 1:N matching which is used to recognize a person's face in a photo or a video. 
 It is very useful for personal photo albums, and using this capability in CloudPal would insure its absolute privacy.
 In KYC and fraud-prevention scenarios, this is useful to detect synthetic identities, e.g. when a person is registering for a service under a fake name. 
-In this case a search against the database of all users faces is needed, which might be quite expensive.
-The more extreme version is to recognize person's face on a surveilance camera on a video doorbell or inside a home. 
-Corporates applications of this is in screening people at the entrance into the building / office 
-and of course the most hated one, a government surveilance via CCTV cameras.
+In this case a search against the database of all registered faces is needed, which might be quite expensive.
+The more extreme version is to recognize a face as seen viewed via video doorbell or on a nanny camera or security camera inside a home. This one is a super privacy senstite application, great for CloudPal.
+Corporates applications of this is for screening people at the entrance into the building / office 
+and of course the most hated one, is a government surveilance via CCTV cameras.
 
 ### Face detection
-Detect a face in the image (bounding box). There could be multiple faces. 
-Align the face compensating (math not deep learning) 
+Face recognition starts with face detection in the image or video stream (and placing a bounding box around it). In 1:N scenarios there could be multiple faces in the stream. 
 
-## Pipeline for face matching (also called face verification)
+_This is done with AI._
 
-### Face Embeddings 
-has the standard emerged on face embeddings? the reason I ask is that we would like to avoid storing images of the faces, and instead store only the embeddings. But if later we need to switch to another framework that uses different embeddings, it will be impossible.if we do not have original images
-First of all, there is no standard. And each embeddings is generated specifically from a trained model. 
-We can not recover the information from one model to another with the same embedding.  
-And also, the one you mentioned to just stored the embeddings and convert it back to original images is called autoencoder or transformer in another form.  
-It is only used to compress the information of an image and could not be used to identify features
+### Face Landmarks (creating an embedding)
+Facial landmarks are salient regions of the face, such as:
+
+    Eyes
+    Eyebrows
+    Nose
+    Mouth
+    Jawline
+
+After identifying landmarks, the face enbedding is created. It is a mathematical representation of the face.
+No standard has yet emerged for face embeddings. Some algorthms use 5 points, others use dozens and even hundreds of points on the face. 
+_There are [ML algorithms](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/) and AI algorithms for embeddings._
+
+In KYC settings, for privacy it is very important to avoid storing regustered faces and instead to store only the embeddings. The problem is that when later we need to switch to another framework, you will need the original images. It is because we can not recover the information from the embedding from one algorithm to use in another algorithm because each embeddings algorithm uses different number of landmark points in the embedding, different math or different AI to produce them. And asking millions of users to upload their selfie again is practically impossible. 
+
+### Face alignment
+Todays face matching AI is still not capable of matching faces as they were presented. Faces need to be normalized to the frontal view. Facial landmarks are used for face alignment, but also for head pose estimation, blink detection and more.
+
+Note that this step must be skipped for photo IDs to avoid unnecessary distortion and to save resources.
+_This is done with ML_
 
 ## Deep fakes 
 https://www.x-mol.com/paper/1376603357762269184
-Detecting fake images of deepfake video streams that people might use to break the face recognitoin system. 
-There is at least one one scenario where detecting deepfakes ia importanrt. 
-When analyzing social media profile of the person to confirm their identity.
+Detecting deepfakes in images and video streams is a hot topic today. 
+Some use cases:
+- User agent (browser, voice assistant) can pre-read the article of pre-watch the video to detect deepfakes
+- KYC - when analyzing social media profile of the person to confirm their identity
 
 ## Liveness detection
 Looking into deep fakes is important in other contexts but in the context of ID matching to a selfie, it is not critical.
-What is critical is to detect if the image of the ID and selfie image are original and live. So called liveness detection.
-In the US the NIST defined a term for this PAD - presentation attack detection, 
+What is critical is to detect if the image of the ID and selfie image are original and live. This is called liveness detection.
+In the US, NIST defined a term for this PAD - presentation attack detection,
 and defined the standard for testing PAD products. 
-Although they do not test for PAD themselves like they do with face verification and face recognition.
-A couple of vendors got certified to be able to detect with 100% probability that a selfie is live and 
-soon the sane will ne availble for photo IDs.
-The rest we can guarantee with app using a live camera and not allowing to upload pictures from the photo album.
-This is both for selfies and IDs.
+NIST does not test for PAD themselves, like they do with face verification and face recognition.
+A couple of vendors got certified with the NIST with PAD-certified lab and detect liveness with 100% probability. Soon the sane will ne availble for photo IDs.
+Liveness detection is used in combination with an app that only used a live camera, not allowing to user to upload pictures from the photo album.
