@@ -1,4 +1,6 @@
 # Faces 
+
+See [AI primer](https://github.com/tradle/cloudpal/blob/main/AI.md) first.
 _For the purposes of this and other articles, we use an AI team for deep learning AI. 
 In contrast to that we use the ML term for statistical and other traditional mathematical methods for visual, audio and other types of signal processing_.
 
