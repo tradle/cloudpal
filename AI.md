@@ -11,8 +11,9 @@ This is so called 1:1 matching or sometimes called face verification.
 This is a 1:N matching which is used to recognize a person's face in a photo or a video. 
 It is very useful for personal photo albums, and using this capability in CloudPal would insure its absolute privacy.
 In KYC and fraud-prevention scenarios, this is useful to detect synthetic identities, e.g. when a person is registering for a service under a fake name. 
-In this case a search against the database of all registered faces is needed, which might be quite expensive.
-The more extreme version is to recognize a face as seen viewed via video doorbell or on a nanny camera or security camera inside a home. This one is a super privacy senstite application, great for CloudPal.
+In this case a search against the database of all registered faces is needed, which might be quite expensive. For that various 2-step techniques are used for finding initially a subset of potential matches (usually about 100) and then doing face matching on each of the candidates individually. 
+
+The more extreme version of face recognition is to recognize a face as viewed via video doorbell or on a nanny camera or security camera inside a home. This one is a super privacy senstite application, great for CloudPal.
 Corporates applications of this is for screening people at the entrance into the building / office 
 and of course the most hated one, is a government surveilance via CCTV cameras.
 
@@ -57,3 +58,11 @@ and defined the standard for testing PAD products.
 NIST does not test for PAD themselves, like they do with face verification and face recognition.
 A couple of vendors got certified with the NIST with PAD-certified lab and detect liveness with 100% probability. Soon the sane will ne availble for photo IDs.
 Liveness detection is used in combination with an app that only used a live camera, not allowing to user to upload pictures from the photo album.
+
+## Performance 
+A lot of AI requires GPU, which is a more limited and expensive resource. 
+Forunately inference for face matching can work reasonably well on the CPU, and even on mobiles. Liveness detection does not yet work on mobile.
+
+## Training AI
+Glint360
+## Mobiles 
