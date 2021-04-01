@@ -18,7 +18,7 @@ And it has a special runtime [optimized for smartphones](https://cloudblogs.micr
 ### Do you need CPU or GPU?
 And when you can get away with CPU as GPU is not always available, e.g. low end mobiles) or too expensive in the cloud.
 
-TBD. So far I see that Facematching, liveness detection are ok on CPU, but Voice to Text needs GPU, and requires gigantic models (gigabytes) that take time (a dozen seconds) to load to the GPU.
+[Face matching, liveness detection](https://github.com/tradle/cloudpal/blob/main/face-ai.md) are ok on CPU, but Voice to Text needs GPU, and requires gigantic models (gigabytes) that take time (a dozen seconds) to load to the GPU.
 
 ### How to use GPU in the browser and react native?
 
