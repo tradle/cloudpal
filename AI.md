@@ -67,7 +67,8 @@ Forunately inference for face matching can work reasonably well on the CPU, and 
 
 ## Training AI and accuracy testing
 Fortunately for face matching and recognition tasks there are pre-trained models, released to open source:
-- 360K people 1.5 images [Glint360K](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
+- 360K people (1.5m images) [Glint360K](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
+- 100K people (10M images) [Microsoft Celeb](https://exposing.ai/msceleb/) dataset
 
 Testing can be done on the following test datasets:
 - [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/index.html)
