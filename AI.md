@@ -1,7 +1,7 @@
 # AI Orientation for JavaScript developers
 
-### What are the most popular frameworks? 
-TensorFlow (developed by Google), MxNet, PyTorch (used by Tesla), Keras, etc.
+### What are the most popular open source AI frameworks? 
+TensorFlow (by Google), Apache [MxNet](https://mxnet.apache.org/versions/1.7.0/api/faq/why_mxnet), PyTorch (by Facebook and used by Tesla for self-driving), Keras, etc.
 
 ### Is there interoperability between frameworks? 
 Surprisingly yes, it is called ONNX, it is built and maintained by Microsoft. ONNX supports conversion from and to [17 different frameworks](https://onnx.ai/supported-tools.html#buildModel) (with various limitations). ONNX is like a .docx format, which was originally created by Microsoft Word, but now supported by Libre, Pages, Google Docs and others. So you can save PyTorch model to ONNX format. But ONNX is also a runtine for executing models. 
