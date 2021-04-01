@@ -1,18 +1,18 @@
 # AI Orientation for JavaScript developers
 
-### What are the most popular open source AI frameworks? 
+### What are the most popular open source AI frameworks?
 TensorFlow (by Google), Apache [MxNet](https://mxnet.apache.org/versions/1.7.0/api/faq/why_mxnet), PyTorch (by Facebook and used by Tesla for self-driving), Keras, etc.
 
 ### Is there interoperability between frameworks? 
 Surprisingly yes, it is called ONNX, it is built and maintained by Microsoft. ONNX supports conversion from and to [17 different frameworks](https://onnx.ai/supported-tools.html#buildModel) (with various limitations). ONNX is like a .docx format, which was originally created by Microsoft Word, but now supported by Libre, Pages, Google Docs and others. So you can save PyTorch model to ONNX format. But ONNX is also a runtine for executing models. 
 
-### Is it possible to run in nodeJS? 
+### Is it possible to run in node.js? 
 Yep, with [ONNX.js](https://github.com/microsoft/onnxjs) runtine, which is awesome, it runs in Node, browsers, mobile browsers, and likely in webview in React Native (need to check). ONNX has CPU, WebAssembly (wasm) and WebGL (for GPU) backends. ONNX.js currently supports most operators in ai.onnx operator set v7 ([opset v7](https://github.com/onnx/onnx/blob/master/docs/Operators.md)). Support for [ai.onnx.ml operators](https://github.com/onnx/onnx/blob/master/docs/Operators-ml.md)) is coming soon. 
 Your milage may vary though, e.g. Keras.js and TensorFlow.js don't support wasm in browsers yet. 
 Also, when you convert a model, you might need to make some adjustments, like happened during this demo at [17:31](https://youtu.be/Vs730jsRgO8?t=1051)), which otherwise was a very smooth process.
 
 ### On mobile, really? What works on mobiles and what does not?
-Well, ONNX only does not do inference in browsers, but it is crazy fast. 
+Well, ONNX only does not do training in the browsers, but its inference is [crazy fast](https://github.com/microsoft/onnxjs/blob/master/docs/perf-resnet50.png). 
 And it has a special runtime [optimized for smartphones](https://cloudblogs.microsoft.com/opensource/2020/10/12/introducing-onnx-runtime-mobile-reduced-size-high-performance-package-edge-devices/), which claims to be as lite as Tensoflow-Lite, but faster. Note that Tensoflow-Lite supports training on mobiles.
 
 ### Do you need CPU or GPU?
