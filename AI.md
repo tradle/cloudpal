@@ -1,6 +1,6 @@
 # Faces 
-_For the purposes of this and other articles, we use AI team as a deep learning AI. 
-We use ML term as for statistical and other traditional math methods for visual, audio and other signal processing_
+_For the purposes of this and other articles, we use AI team for deep learning AI. 
+In contrast to that we use ML term for statistical and other traditional mathematical methods for visual, audio and other types of signal processing_.
 
 ## Face matching pipeline 
 Face matching is an ability to recognize faces and identify them.
