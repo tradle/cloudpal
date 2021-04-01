@@ -3,7 +3,7 @@ _For the purposes of this and other articles, we use an AI team for deep learnin
 In contrast to that we use the ML term for statistical and other traditional mathematical methods for visual, audio and other types of signal processing_.
 
 ## Face matching pipeline 
-Face matching is an ability to recognize faces and identify them.
+Face matching is an ability to find faces in larger images or videos and identify them.
 It can be used to match a photo ID to a selfie. 
 This is so called 1:1 matching or sometimes called face verification. 
 
