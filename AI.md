@@ -33,17 +33,15 @@ Training is the most difficult part of AI, using AI (inference) is quite simple 
   - Ideally we should do inference on the client side. 
     This also saves money that otherwise are spent on server CPU, ram, GPU and videoram usage.
   - If using GPU on the server that is used by many other clients - this becomes tricky
+  - AI models need to be able to visit the data, which will avoid sending data to the center, where AI is usually trained. Accuracy of AI is highly dependent on the data. Who owns the data - wins in AI.
 
-# How AI model can be trained by bringing it to data, not data to AI (which is a bad norm now)? 
-Model needs to be able to visit a million CloudPal instances, and train on each. The technique is called federated AI. But this still centralizes the model at the center. This is bad as it maintains control at the center, e.g center may withold the model from some nodes, and perform other shenanigans. There are new approaches for decentralized (P2P) federated learning.
+The Model needs to be able to visit million edge computers (CloudPal instances, mobiles) and train on each. The technique is called federated AI, and was first developed by Google. This is a breakthrough in AI and now TensorFlow Federated and PyTorch federated versions exist to help coordinate the process. But federated AI still coordinates from the center, and centralizes the learnings (model) at the center. This is bad as the center maintains control, and may withold the model from some nodes, and perform other shenanigans, such as deplatforming, which happened many times recently (AWS, app stores, Twitter) and in the past (Facebook and Twitter killed their developer ecosystem). There are new approaches to address this problem. They leverage decentralized (P2P) federated learning.
 
 ### What types of deep learning networks exist?
-TBD
-Convolutional and newer, Transformer networks
+Convolutional are traditional now and Transformers have recently made a huge splash.
 
 ### What is each type good at?
-TBD
 Convolutional networks are good for image classification (e.g. face matching). 
-Transformers are good for NLP (natural language processing).
+Transformers are good for NLP (natural language processing), the best example is [GPT3](https://www.theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day) - you must watch [this demo](https://www.youtube.com/watch?v=PqbB07n_uQ4).
 
 
