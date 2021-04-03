@@ -1,4 +1,4 @@
-CloudPal development plan (eaerly draft)
+CloudPal development plan (early draft)
 Take a look at issues for detailed plans for different parts of CloudPal.
 
 ## Flow sanctuary 
