@@ -42,11 +42,22 @@ Yet all of the current major assitants do send samples to their servers, if only
 ### Transcription of Voice to text
 This is the stage when you issue a command or ask a question and AI needs to transcribe your voice into text. This is the heaviest of all the voice operations in Assitant and requires GPU, see issue #3.
 
-### Understanding your command
+### Understanding your intent
 After that assistant needs to understand what you wanted,
 and for that it uses the AI to map the transcribed text into one of the so called intents. 
 Intent could be - reserve a seat in the restaurant. 
 As command can be said in a variaty of ways, when intent is configured by the Voice app developer, they would provide a list of possible uterances in the textual form. This list does not need to cover all variants, usually a dozen variants are sufficient for AI to understand the intent.
 
+### Voice response
+To give a response to the user in a natural voice the predefined responses in textual form need to be rendered in audio. For that special AI networks exist that take voice artist's voice samples and use it as a basis of rendering text response as speech.
+
+This stage is simpler as it does not need to operate in real time, as all predefined text can be rendered to voice ahead of the game and stored.
+
+## Parameters / variables / slots
+When do you want to schedule your spa visit? How many people will be coming? What procedures do you want to book at the spa?
+
+These are variables or slots as Alexa Skills call them.
+Developer needs to define them upfront. 
+And STT needs to understand spoken dates, time, duration, numbers and lists of possible values (e.g. SPA procedures).
 
 
