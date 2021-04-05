@@ -1,4 +1,4 @@
-# Voice asisstant 
+# Voice assistant 
 We had decades of sci-fi books and movies in which people talk to computers. 
 Finally voice is here and in mass. But Houston, we have a problem! 
 All those utterances from our our bedrooms and living rooms are going to BigTech.
