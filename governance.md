@@ -47,12 +47,14 @@ is the basis for moving later to a fully decebtralized governance (DAO).
 - Technology partners
 - Supply (data centers)
 
-# Tokenomics
-- premining? if premining - how tokens are divided between founders 
-- oracles to data centers for price index 
-- legal aspects of cloud token as commodity 
-
 ## Legal 
 - Formation 
 - SAFT notes?
 - Governance - scopes of authority (strategy, execution, funds)
+
+# Tokenomics
+- premining? if premining - how tokens are divided between founders 
+- oracles to data centers for price index 
+- legal aspects of a token as commodity 
+
+
