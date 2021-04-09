@@ -53,8 +53,9 @@ is the basis for moving later to a fully decebtralized governance (DAO).
 - Governance - scopes of authority (strategy, execution, funds)
 
 # Tokenomics
+- Emission, burning 
+- Governance token
 - premining? if premining - how tokens are divided between founders 
-- oracles to data centers for price index 
-- legal aspects of a token as commodity 
+- legal aspects of a token as commodity and oracles for a price index
 
 
