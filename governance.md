@@ -11,15 +11,27 @@ is the basis for moving later to a fully decebtralized governance (DAO).
 
 ## Strategy 
 
+## Manufacturing
+- Product research 
+- Protocols and standards
+- Secure software execution 
+  - Trusted environment 
+  - Reproducable builds 
+  - Zero knowledge proofs
+- Server-side
+- Client-side
+  - mobile (iOS, Android)
+  - wearables
+  - Windows
+  - MacOS
+  - Linux  
+
 ## Marketing 
 - written content production
 - podcasting and interviews of guests
 - interviews where we are guest at other podcasts 
 - events (keynotes and panels)
 - Website: content, SEO, links from other sites
-- social media 
-  - consitent daily Tweeting 
-  - sub-reddit 
 - monitoring social media 
 - Design
    - Core imagery, logo, colors 
@@ -37,9 +49,17 @@ is the basis for moving later to a fully decebtralized governance (DAO).
   - Tutorials and blogs on use cases
   - Testing environment (sandbox)
   - Production of Samples for use cases
-  - Hackathons - offering CloudPal for devs to hack on
+  - Participating in hackathons - offering CloudPal for devs to hack on, training and support
   - Killer apps ideation
+  - Killer apps teams outreach
+  - Killer apps team formation 
   - Recruitment of app dev teams for killer app production
+
+## General community and social media
+  - consitent daily Tweeting 
+  - sub-reddit 
+  - Reddit 
+  - Matrix 
 
 ## Business development 
 - Finding apps and bringing them to CloudPal
