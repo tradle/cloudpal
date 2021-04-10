@@ -10,6 +10,8 @@ is the basis for moving later to a fully decebtralized governance (DAO).
 - Slogan 
 
 ## Strategy 
+- reseach 
+- competitve analysis 
 
 ## Manufacturing
 - Product research 
