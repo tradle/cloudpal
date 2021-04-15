@@ -41,6 +41,7 @@ is the basis for moving later to a fully decebtralized governance (DAO).
    - App design 
    - Documentation design
    - Podcasts design
+   - Twitter posts design
 - Media pack 
 - Journalist relationships
 ## Funding 
