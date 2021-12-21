@@ -1,5 +1,5 @@
 # This is the primer on CloudPal
-(note that CloudPal is still in its early stages of development)
+(If MyCloud is for a company, CloudPal is for an individual. Note that CloudPal is still in its early stages of development)
 
 Tracking is evil, everywhere we go on the Internet, every app we use, everything we do, we are being tracked. Today we are not app users, we are a product. We are monetized by Facebook, Google, Microsoft, Amazon and others. In 30% of American homes Amazon Alexa is [listening to their living room and bedroom conversations](https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/?sh=20c41a2b1e53). Amazon Ring Video Doorbel is recording who comes to your doors and [shares with the police](https://www.eff.org/deeplinks/2020/11/police-will-pilot-program-live-stream-amazon-ring-cameras) without owners even being aware of it. Google Gmail reads all private emails and can read our most precious ideas on Drive. We are being constantly watched and tracked by Tech companies wherever we go and whatever we do. Governments come to those companies and grab data without our consent, and often without warrants. It is an insane world, we walked freely into in return for many conveniences. 
 
