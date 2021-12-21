@@ -5,11 +5,11 @@ Tracking is evil, everywhere we go on the Internet, every app we use, everything
 
 This is about to change, meet your CloudPal.
 
-CloudPal is where apps provide you the utility and insights, but where apps DO NOT take the data to the company that made them, a total opposite of what we have with Gmail, Facebook, Quickbooks, and all other apps today. CloudPal takes us back to where data on my computer were mine and it was incievable for the app to exfiltrate it.
+CloudPal is where apps provide you the utility and insights, but where apps DO NOT take the data to the company that made them, a total opposite of what we have with Gmail, Facebook, Quickbooks, and all other apps today. CloudPal takes us back to where data on my computer were mine and it was inconcievable for the app to exfiltrate it to their own servers.
 
 We live in a multi-device world which is rapidly expanding. The computing devices we use today are mobiles, tablets, laptops / desktops, smart speakers, watches, fitness trackers, wireless earphones, smart TVs, home automation, home storage (NAS), cars, and a body measurement devices for weight, blood pressure, skin temperature, blood oxygenation, heart function, sleep, etc.
 
-Now there is a way to stop it. What we are missing is one device. That device is the personal Cloud device, a CloudPal. CloudPal connects all your other devices, stores all your data, and runs cloud apps on your data, and does that without giving out a yota of your personal data. 
+What we are missing is one device. That device is the personal Cloud device, a CloudPal. CloudPal connects all your other devices, stores all your data, and runs cloud apps on your data, and does that without giving out a yota of your personal data. 
 
 CloudPal is consumer-friendly, always-on and needs zero maintenance. 
 CloudPal is your assistant in the Cloud, truly personal, no compromises, no backdoors.
